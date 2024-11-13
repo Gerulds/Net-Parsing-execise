@@ -1,0 +1,14 @@
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\obj\Debug\net8.0\Net parsing text file exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\obj\Debug\net8.0\Net parsing text file exercise.AssemblyInfoInputs.cache
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\obj\Debug\net8.0\Net parsing text file exercise.AssemblyInfo.cs
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\obj\Debug\net8.0\Net parsing text file exercise.csproj.CoreCompileInputs.cache
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\bin\Debug\net8.0\Net parsing text file exercise.exe
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\bin\Debug\net8.0\Net parsing text file exercise.deps.json
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\bin\Debug\net8.0\Net parsing text file exercise.runtimeconfig.json
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\bin\Debug\net8.0\Net parsing text file exercise.dll
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\bin\Debug\net8.0\Net parsing text file exercise.pdb
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\obj\Debug\net8.0\Net parsing text file exercise.dll
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\obj\Debug\net8.0\refint\Net parsing text file exercise.dll
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\obj\Debug\net8.0\Net parsing text file exercise.pdb
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\obj\Debug\net8.0\Net parsing text file exercise.genruntimeconfig.cache
+C:\Users\gerul\OneDrive\Escritorio\Prueba_Evertec\Net parsing text file exercise\Net parsing text file exercise\obj\Debug\net8.0\ref\Net parsing text file exercise.dll

@@ -1,0 +1,1001 @@
+id|first_name|last_name|phone|addr1|addr2|city|state|zipcode|account|details1|amount1|details2|amount2|details3|amount3
+1|Marcela|Horley|504-286-8099|Sullivan|1 Twin Pines Terrace|Metairie|LA|70005|3533049621738290|Games|1585.41|Computers|2034.31|Outdoors|3942.61
+2|Tamiko|Kearns|304-393-0993|Clyde Gallagher|154 Independence Road|Huntington|WV|25726|3559914002551811|Toys|125.17|Tools|8408.96|Movies|4483.48
+3|Viv|Barribal|410-763-0508|Twin Pines|5 Holy Cross Center|Baltimore|MD|21211|5554340140542316|Beauty|6182.98|Outdoors|8303.21|Outdoors|3511.20
+4|Tedd|Leehane|212-516-4292|Armistice|7 Ruskin Junction|New York City|NY|10004|30207522748685|Music|2723.57|Health|421.10|Toys|5677.17
+5|Brook|Freyne|302-704-5614|Tennessee|4 Buena Vista Hill|Newark|DE|19714|3542684121253348|Industrial|7968.88|Outdoors|405.91|Grocery|8211.97
+6|Cornie|Malins|602-980-4932|Northland|683 Swallow Crossing|Chandler|AZ|85246|3581061445219952|Outdoors|7709.96|Baby|4743.66|Computers|1950.48
+7|Jarad|McIlvaney|662-413-7982|Sauthoff|1397 Oneill Junction|Columbus|MS|39705|5108758291946443|Health|7568.43|Home|506.19|Beauty|3701.76
+8|Erny|Juniper|503-583-0247|Mallard|074 Prentice Lane|Portland|OR|97286|3550075430292243|Sports|4770.08|Clothing|9902.11|Kids|1709.42
+9|Linea|Gover|251-208-2247|Shasta|3453 Golf Course Avenue|Mobile|AL|36605|3542649086867549|Tools|9793.28|Books|8378.06|Music|5615.30
+10|Alasteir|Dike|817-464-2190|Eagle Crest|446 Dixon Pass|Irving|TX|75062|3559955639351281|Outdoors|1918.34|Shoes|9492.48|Home|7089.40
+11|Netty|Atcheson|704-127-7344|Pierstorff|1834 Clemons Crossing|Charlotte|NC|28278|201848450525547|Sports|2343.55|Computers|1472.39|Sports|8416.87
+12|Jemima|Fitt|850-477-3876|Northfield|15711 Bobwhite Junction|Pensacola|FL|32520|3544872274654085|Books|1211.92|Games|9134.71|Movies|6779.60
+13|Cirillo|Carlsen|213-987-8875|Butternut|57950 Anzinger Way|Los Angeles|CA|90050|6380441317279365|Automotive|7626.70|Electronics|3892.98|Electronics|678.08
+14|Isaak|McConway|863-595-1406|Erie|50528 Towne Circle|Lakeland|FL|33805|3552143783708419|Shoes|2421.99|Grocery|4947.28|Movies|2976.00
+15|Nomi|Emberson|269-858-0057|Kinsman|0 Southridge Alley|Kalamazoo|MI|49006|3558795878980528|Books|2709.46|Clothing|7451.47|Sports|7979.71
+16|Kristyn|Rylands|415-447-9693|Monument|781 Sycamore Lane|San Francisco|CA|94164|3563229185330535|Baby|5211.14|Automotive|7455.14|Industrial|9501.82
+17|Eydie|McAne|310-245-7004|North|863 Corscot Crossing|Long Beach|CA|90805|3540829117151343|Outdoors|6669.06|Beauty|7466.42|Tools|7079.44
+18|Kiri|Beel|810-599-7734|Eastwood|40391 Schlimgen Terrace|Flint|MI|48550|676168722640690016|Kids|7896.79|Computers|2299.90|Computers|8481.38
+19|Lucretia|Lawrance|954-781-3505|Shopko|69 Pankratz Junction|Miami|FL|33169|3561630758070105|Health|4760.63|Industrial|2225.89|Tools|1032.67
+20|Waiter|Ingham|253-290-6838|Delaware|1 Mallory Junction|Tacoma|WA|98442|3568365443801555|Computers|8129.18|Jewelry|8037.81|Computers|450.91
+21|Boothe|Raddon|402-795-5255|Troy|91 Thackeray Lane|Omaha|NE|68124|30254884378248|Grocery|9532.12|Kids|2025.26|Grocery|6781.75
+22|Boote|L'oiseau|530-862-8436|Anniversary|04 Lotheville Street|Sacramento|CA|95818|3539013337518895|Health|3688.11|Outdoors|2928.30|Electronics|1333.92
+23|Cordie|Kilford|361-929-9677|Division|76823 Blue Bill Park Park|Corpus Christi|TX|78465|5602254882609526|Garden|9240.96|Movies|9674.50|Automotive|3200.53
+24|Em|Harvard|763-818-0869|Weeping Birch|8785 Dorton Park|Maple Plain|MN|55572|201498370214051|Baby|3063.72|Music|4647.06|Health|1079.44
+25|Ahmad|Bawden|225-593-3577|Transport|19 Mesta Terrace|Baton Rouge|LA|70826|201930080596088|Outdoors|5928.06|Movies|1872.91|Industrial|160.23
+26|Stacy|Brussels|757-111-0253|Manufacturers|72776 Mcguire Hill|Newport News|VA|23612|4903135386952354464|Toys|2753.75|Sports|6917.87|Shoes|8583.82
+27|Eleonore|Angric|916-947-6553|Forest|41 Clyde Gallagher Parkway|Sacramento|CA|94297|3575162535667635|Jewelry|7539.46|Jewelry|2838.01|Toys|7352.19
+28|Wendeline|Verbruggen|757-102-8497|Moulton|64553 Mccormick Junction|Virginia Beach|VA|23471|3538704056910435|Clothing|3030.30|Toys|3198.69|Movies|8254.88
+29|Ingra|Haggar|571-708-4891|Corry|422 Shasta Terrace|Falls Church|VA|22047|5048371964878340|Books|5381.03|Industrial|2003.51|Automotive|2242.70
+30|Blakeley|MacInerney|754-768-7707|Morningstar|7 Kropf Crossing|Fort Lauderdale|FL|33310|3569594135533510|Clothing|436.63|Kids|1770.37|Music|1356.69
+31|Doralynn|Fanshawe|520-815-3019|Pleasure|14 Maple Wood Lane|Tucson|AZ|85732|5100143110872542|Books|1746.63|Garden|1408.29|Outdoors|9813.39
+32|Jeddy|MacCague|281-145-8701|Lakewood|9153 Hoepker Way|Houston|TX|77005|4911299362679970077|Beauty|3941.62|Industrial|582.06|Beauty|5512.88
+33|Pegeen|Clausen-Thue|941-292-5592|Blaine|9728 Lukken Junction|North Port|FL|34290|4903779582978270327|Clothing|3.06|Shoes|5684.33|Music|6306.54
+34|Lisetta|Itzkovici|704-459-2316|Knutson|7657 Sloan Parkway|Charlotte|NC|28289|3565286172719037|Toys|7290.27|Tools|2469.96|Beauty|9249.94
+35|Andeee|Maddaford|757-690-0424|Crowley|0102 Caliangt Crossing|Newport News|VA|23612|5100179485403810|Industrial|6178.92|Automotive|823.80|Grocery|6411.43
+36|Brear|Lober|515-703-2323|Magdeline|3 Fair Oaks Pass|Des Moines|IA|50320|3530459055756747|Industrial|2282.71|Beauty|6328.82|Industrial|262.36
+37|Alfred|Searsby|530-177-2855|Orin|8 Waubesa Road|Sacramento|CA|95833|5602210688426028|Home|2822.01|Automotive|7045.08|Movies|6349.13
+38|Teressa|Smurthwaite|212-504-6386|Helena|84974 Bobwhite Parkway|New York City|NY|10039|3545046507012184|Baby|1875.28|Clothing|9043.82|Garden|4099.71
+39|Timothea|Proven|720-789-5721|Atwood|834 Carey Drive|Denver|CO|80299|3554122699850109|Shoes|6440.67|Baby|8301.29|Garden|2723.89
+40|Lyndsay|Metts|502-574-6089|Colorado|21535 Nevada Road|Louisville|KY|40256|3548251165069982|Clothing|7678.44|Music|4387.43|Grocery|818.61
+41|Andriana|Ornillos|501-610-2255|Bluestem|5177 Southridge Court|North Little Rock|AR|72199|3581078077664149|Electronics|7052.48|Shoes|38.76|Movies|9846.12
+42|Winne|Crosse|772-226-0884|Hayes|36218 Lakewood Gardens Road|Fort Pierce|FL|34981|3578472796369467|Home|5212.76|Shoes|7426.62|Automotive|6506.29
+43|Chantal|Levett|763-142-5304|Luster|0 Havey Lane|Minneapolis|MN|55402|67611063588670446|Home|8393.47|Outdoors|1394.85|Jewelry|7695.29
+44|Dante|Antonopoulos|806-639-9735|Sunnyside|862 Jay Lane|Amarillo|TX|79171|6374527838148358|Shoes|6087.56|Outdoors|5035.11|Grocery|318.91
+45|Kinna|Lomas|251-949-4836|Pearson|01 Waywood Alley|Mobile|AL|36628|3566702285294279|Jewelry|6996.95|Books|1697.99|Toys|2519.75
+46|Kelsey|Giamitti|317-844-8274|Debs|5 Eggendart Circle|Indianapolis|IN|46295|5007665024224737|Baby|631.81|Tools|6485.40|Sports|5319.34
+47|Tallulah|Surmeir|907-395-4334|Elmside|57 Blaine Lane|Anchorage|AK|99599|36090383112769|Health|6081.71|Tools|320.61|Kids|6538.21
+48|Jakie|Sheran|954-762-7102|Express|1539 Granby Court|Fort Lauderdale|FL|33305|3567894632245440|Beauty|9465.25|Clothing|159.87|Shoes|500.48
+49|Bat|Grzegorek|213-714-7483|John Wall|9 Knutson Center|Los Angeles|CA|90101|3581482170961222|Electronics|2548.20|Toys|4888.99|Home|9753.20
+50|Noel|Harragin|713-103-0330|Main|2003 Canary Crossing|Houston|TX|77218|5336413034186865|Toys|1636.66|Sports|7696.72|Toys|3855.38
+51|Janina|Oleshunin|805-168-7158|Badeau|316 Forster Street|Ventura|CA|93005|3532728759938738|Baby|7382.14|Books|5498.10|Automotive|6302.03
+52|Thelma|Nutty|937-791-9244|Messerschmidt|69 Riverside Center|Dayton|OH|45432|3530096044647114|Books|9867.87|Electronics|8287.18|Kids|4466.01
+53|Kacie|Outright|412-318-6070|Monica|3 Grayhawk Center|Pittsburgh|PA|15286|5641821137833326|Grocery|8898.25|Industrial|2561.55|Baby|2719.42
+54|Carmelle|Balharrie|608-367-5343|Park Meadow|98 Oakridge Street|Madison|WI|53705|3537316838220933|Shoes|9943.76|Jewelry|2575.50|Music|7824.93
+55|Justen|Grindall|281-627-7038|Armistice|03 Fairview Junction|Houston|TX|77020|201743235443316|Electronics|9106.96|Tools|7547.86|Books|2144.22
+56|Ora|Winslade|901-520-1310|Grover|8 Kedzie Center|Memphis|TN|38188|3553245902707773|Electronics|495.22|Industrial|8407.66|Kids|4781.65
+57|Grissel|Roseveare|626-241-6736|Morningstar|0003 Green Ridge Court|Los Angeles|CA|90071|30124434643617|Music|1854.69|Automotive|1788.31|Home|7299.81
+58|Gordon|Lambotin|203-548-5424|Melvin|9 Anhalt Street|New Haven|CT|06520|06045644460585770|Movies|550.03|Grocery|6126.92|Clothing|1190.92
+59|Thurston|Poulgreen|202-889-1591|La Follette|96073 Vera Hill|Washington|DC|20067|3553030633155843|Toys|6275.58|Shoes|8354.29|Industrial|1558.88
+60|Waylen|Marle|515-890-2320|Grover|96 Haas Way|Des Moines|IA|50393|50203908948196864|Books|3807.43|Beauty|4102.19|Shoes|5949.08
+61|Sayre|Chasteau|570-885-8989|3rd|95 Amoth Way|Wilkes Barre|PA|18768|5602216486662342|Toys|7623.71|Industrial|586.93|Jewelry|3105.65
+62|Kendall|Furbank|406-283-7579|Westport|35606 Merchant Circle|Bozeman|MT|59771|5554957455590737|Industrial|7259.58|Industrial|7618.52|Outdoors|8390.33
+63|Farley|Callington|714-163-8682|Hazelcrest|16 Monica Place|Garden Grove|CA|92645|5160023600124173|Toys|7107.74|Computers|8219.47|Shoes|2894.83
+64|Gaile|Keatley|212-853-1326|Norway Maple|201 Kinsman Pass|New York City|NY|10125|3555362209057006|Books|6250.31|Outdoors|2352.97|Games|9684.61
+65|Kip|Castanares|941-178-1575|Prairieview|2752 Moland Plaza|Bonita Springs|FL|34135|5602211370863643|Industrial|3449.33|Beauty|7039.45|Sports|5055.90
+66|Clim|Breede|502-258-8882|Kropf|40 Mendota Avenue|Louisville|KY|40233|5641829210088887914|Jewelry|3155.12|Tools|992.29|Automotive|6665.22
+67|Illa|McTrustam|818-868-9041|Dahle|4217 Luster Parkway|Glendale|CA|91210|5048377624285271|Home|2676.23|Shoes|2691.07|Grocery|5635.44
+68|Durante|Arnoldi|717-691-6179|Texas|189 Darwin Circle|York|PA|17405|5338176815126800|Industrial|8036.37|Movies|4091.82|Jewelry|2377.08
+69|Brod|Hanselmann|412-265-2224|Fairfield|02904 Mariners Cove Parkway|Pittsburgh|PA|15279|6304482491730838180|Beauty|1137.11|Clothing|4006.75|Tools|7164.90
+70|Neil|Ryce|703-933-9719|Kipling|410 Burning Wood Way|Washington|DC|20041|5562792689269562|Music|3437.22|Sports|9187.85|Games|451.53
+71|Cordie|Hughs|941-268-8516|Derek|5 John Wall Terrace|Bradenton|FL|34282|676716511948417595|Health|6095.94|Sports|8824.83|Grocery|7346.75
+72|Karlotte|Dregan|501-411-4026|Main|98 Lerdahl Terrace|Hot Springs National Park|AR|71914|374622827057315|Baby|7107.97|Sports|248.78|Toys|7966.65
+73|Barty|Nottingham|571-914-2426|Graceland|058 Mockingbird Drive|Vienna|VA|22184|490330191687229659|Health|8355.35|Shoes|4659.45|Computers|7259.01
+74|Warren|Chiplin|806-491-3693|Straubel|55194 Laurel Drive|Amarillo|TX|79159|6380202091936921|Music|6420.72|Shoes|6284.21|Beauty|134.08
+75|Linus|Rannie|714-692-3298|Golf Course|06580 Johnson Hill|Santa Ana|CA|92725|6763806597292000914|Shoes|27.34|Sports|8543.57|Health|6367.95
+76|Ceil|Whitmell|913-758-4707|Aberg|16 Florence Point|Kansas City|KS|66105|670639745304190282|Tools|4610.39|Computers|635.72|Computers|3262.94
+77|Antonella|Moulds|818-108-2169|Armistice|222 Dorton Crossing|Northridge|CA|91328|3538618695049456|Music|8169.63|Beauty|3450.59|Toys|9432.41
+78|Dickie|Fasham|408-675-6701|Sunbrook|6 Columbus Avenue|San Jose|CA|95155|5007666959655200|Garden|6772.35|Outdoors|3245.10|Shoes|5834.47
+79|Clare|Feldon|321-347-0007|Moose|6365 Homewood Circle|Melbourne|FL|32919|560225093145406259|Games|5436.77|Music|7170.27|Tools|6892.76
+80|Vincenty|Janjusevic|205-900-6609|Aberg|3 Oak Valley Parkway|Birmingham|AL|35295|30578010079050|Baby|367.23|Outdoors|4617.55|Garden|3961.71
+81|Bancroft|Ings|915-928-5207|Warner|4562 Norway Maple Avenue|El Paso|TX|88519|3588126758129941|Baby|9373.51|Clothing|3009.81|Home|405.63
+82|Luigi|Besse|360-511-8784|Raven|98 Hoepker Pass|Seattle|WA|98109|4026024390256859|Shoes|3842.62|Outdoors|8456.41|Home|7486.62
+83|Lorens|Siemens|214-941-9659|Elka|07136 Green Ridge Alley|Garland|TX|75044|5602251238316715|Music|5571.02|Computers|1774.43|Grocery|9371.58
+84|Gabbey|Capstaff|661-320-2414|Farmco|5 Weeping Birch Drive|Bakersfield|CA|93386|3549755589570028|Industrial|3749.50|Music|2098.13|Garden|2236.90
+85|Essie|Bernolet|212-301-7764|Sheridan|8843 David Point|Brooklyn|NY|11247|5610772540426934|Kids|9591.77|Games|8157.38|Movies|4328.00
+86|Pamela|Kleinpeltz|609-862-6870|Heath|219 Randy Junction|Trenton|NJ|08650|633429859671438380|Toys|547.40|Outdoors|7656.69|Jewelry|6013.99
+87|Lauren|Adamsson|804-370-2206|Grasskamp|370 Vahlen Way|Richmond|VA|23289|3547128120395556|Automotive|8265.29|Sports|6073.30|Music|8654.27
+88|Emelyne|Aumerle|571-919-9620|Elmside|08303 Continental Street|Ashburn|VA|22093|5602239772646536925|Tools|8032.58|Industrial|1987.89|Clothing|1271.34
+89|Leanora|Prentice|404-998-8074|Fairview|92661 Fisk Hill|Atlanta|GA|30380|3586085837692661|Beauty|121.16|Tools|6936.71|Garden|6965.28
+90|Kristofer|Costar|818-584-2399|Banding|5833 Burning Wood Way|Northridge|CA|91328|6759001590787378|Shoes|2231.23|Automotive|642.25|Electronics|8317.82
+91|Viole|Gormally|513-454-9492|Mallory|40592 New Castle Drive|Cincinnati|OH|45296|6771397535979813|Computers|59.44|Industrial|3340.80|Shoes|147.29
+92|Ernestine|Gaskamp|484-387-6598|Milwaukee|8 Pierstorff Plaza|Valley Forge|PA|19495|490597885531731145|Books|3548.29|Home|7803.59|Toys|5226.28
+93|Abie|Turmall|816-712-1176|Dexter|535 Boyd Lane|Kansas City|MO|64109|5100139616853390|Computers|9590.36|Automotive|5913.02|Shoes|3180.29
+94|Ethe|McNaught|410-313-8702|Logan|86 Oak Valley Hill|Baltimore|MD|21290|201401363171353|Automotive|4027.70|Grocery|7467.36|Kids|8828.16
+95|Jephthah|Wildey|757-806-3097|Homewood|3 Scoville Drive|Virginia Beach|VA|23459|5481326090691730|Garden|191.04|Baby|2850.10|Shoes|2216.24
+96|Stefan|Chamney|423-694-2216|Kensington|60 Hintze Hill|Chattanooga|TN|37450|337941015255507|Computers|4126.12|Books|6258.54|Automotive|8925.60
+97|Anissa|Longworthy|818-641-7503|Grover|2853 Bashford Street|Glendale|CA|91205|3567934588729664|Tools|1708.21|Automotive|6822.60|Books|1219.81
+98|Wake|Boyne|570-485-5349|Bartillon|75912 Hazelcrest Road|Wilkes Barre|PA|18768|5364981582401451|Shoes|3412.27|Sports|6569.27|Industrial|4054.72
+99|Kayley|Micka|303-154-3993|Evergreen|49 Waxwing Circle|Denver|CO|80249|3541527321007116|Tools|4098.44|Kids|8341.83|Sports|8318.31
+100|Westbrook|Mouser|402-273-4551|Orin|47 Fulton Place|Lincoln|NE|68517|3559424627213631|Grocery|3537.43|Books|4916.11|Music|3782.39
+101|Berni|Berford|216-177-1768|Cottonwood|82908 Corben Circle|Cleveland|OH|44197|3559554055870658|Toys|1868.70|Baby|4245.73|Music|7026.23
+102|Patrica|Quipp|206-278-9810|Shopko|08224 Merchant Drive|Seattle|WA|98166|5018845941369123|Automotive|4986.31|Beauty|3207.83|Clothing|1358.25
+103|Jabez|Cawthery|951-755-1154|Longview|98154 Westend Street|Corona|CA|92883|3538841936425463|Baby|1561.15|Outdoors|3730.47|Grocery|6990.86
+104|Bruno|Allbrook|404-107-7392|Crest Line|39 Ramsey Trail|Atlanta|GA|31136|561038160356244318|Books|9832.10|Music|1232.56|Home|3624.91
+105|Allistir|Linster|916-189-3143|David|33899 4th Alley|Sacramento|CA|94291|3547328335587399|Health|2319.75|Home|335.44|Computers|7778.99
+106|Sophronia|Christaeas|212-718-8190|Dovetail|3238 Pleasure Street|Jamaica|NY|11499|5002353739677623|Grocery|4154.59|Kids|7775.72|Industrial|4087.42
+107|Lara|Hanwright|314-767-2291|Heath|4 Artisan Road|Saint Louis|MO|63167|3543942551750251|Music|1297.20|Sports|3789.34|Electronics|4929.38
+108|Clayton|Strelitz|609-203-9811|Oxford|5560 Ridgeview Street|Trenton|NJ|08650|3534568806487414|Kids|3175.41|Beauty|2288.57|Automotive|6268.52
+109|Idelle|Ilewicz|305-669-7591|American|1 Morrow Alley|Boca Raton|FL|33487|3584338007659701|Electronics|8297.03|Music|4599.53|Clothing|8448.07
+110|Warden|Beeston|754-859-9034|Summerview|62 Clove Avenue|Pompano Beach|FL|33075|4017956358584|Games|5683.74|Electronics|7161.45|Automotive|2164.58
+111|Rubetta|Creeghan|316-690-3293|Onsgard|696 Burrows Alley|Wichita|KS|67220|3540705334718371|Music|2324.98|Clothing|8936.79|Music|956.88
+112|Emylee|Goodnow|312-104-1027|Logan|63022 Vernon Street|Chicago|IL|60669|67637698155539985|Computers|5186.63|Toys|7212.21|Music|2908.17
+113|Bibby|Skeermor|713-710-3688|Londonderry|94686 Melby Drive|Houston|TX|77025|3588989198359737|Kids|5644.31|Toys|5754.89|Beauty|8498.39
+114|Chelsea|Pickthorne|310-951-9470|Carioca|521 Sage Parkway|Torrance|CA|90505|633341535714165074|Games|3801.78|Beauty|7696.49|Beauty|8407.67
+115|Pippy|Reuben|336-293-5620|Nobel|0 Warrior Avenue|Winston Salem|NC|27157|3543489396642277|Baby|6760.76|Tools|6745.68|Movies|5496.45
+116|Conrade|Barras|214-324-0590|Maryland|886 Anderson Drive|Irving|TX|75037|6759821646801235740|Beauty|7896.07|Books|9819.25|Health|504.83
+117|Saunders|Dyerson|772-517-8993|Bultman|98929 Boyd Park|Fort Pierce|FL|34981|3530409525389033|Toys|414.51|Grocery|8805.85|Automotive|4630.27
+118|Joshia|Scrancher|814-863-3111|Corben|609 Sommers Point|Erie|PA|16565|4844001243196532|Music|957.50|Toys|8675.22|Movies|844.86
+119|Caitlin|Mussolini|412-115-1092|Atwood|49 Waubesa Hill|Pittsburgh|PA|15286|5048371744258086|Shoes|5454.89|Automotive|1177.78|Movies|7971.16
+120|Celestina|Coller|843-470-1417|Claremont|1 Commercial Circle|Charleston|SC|29416|201727155783215|Beauty|902.52|Tools|233.69|Industrial|3394.09
+121|Abbi|Adamec|318-985-5096|Gateway|0 Veith Junction|Shreveport|LA|71137|374288334999090|Toys|9430.24|Books|2553.09|Baby|2347.00
+122|Agustin|Gipp|806-788-2147|Utah|9634 Briar Crest Park|Lubbock|TX|79415|5602247116799790|Grocery|9821.65|Music|5428.60|Movies|5698.47
+123|Maxi|Lighterness|309-890-4231|Starling|3317 Park Meadow Place|Carol Stream|IL|60158|374283166388751|Electronics|9511.27|Grocery|7420.97|Health|7223.50
+124|Ave|Nutten|864-521-4793|Paget|4 Larry Plaza|Greenville|SC|29610|5213205300911408|Computers|2124.02|Kids|3910.31|Grocery|1562.33
+125|Elly|Rizzolo|210-537-6436|Orin|18203 Spaight Parkway|San Antonio|TX|78230|5455301365488064|Movies|3294.45|Electronics|8150.74|Jewelry|6967.42
+126|Justinian|Prout|612-314-1330|Lunder|36491 Waubesa Terrace|Minneapolis|MN|55423|3561948214213816|Electronics|8711.15|Outdoors|7132.01|Books|7332.91
+127|Fan|Kyte|860-978-2341|Main|87831 Petterle Street|West Hartford|CT|06127|4844207341910571|Kids|3185.65|Clothing|2752.10|Books|7255.09
+128|Derby|Handslip|626-208-6636|Dahle|4 Mockingbird Park|Pasadena|CA|91131|3579155989321747|Games|1730.88|Tools|2969.57|Outdoors|9584.40
+129|Chelsae|Eberst|251-435-8289|Bashford|04 Hauk Junction|Mobile|AL|36641|4911715242480427689|Books|1020.88|Movies|2050.06|Electronics|5242.08
+130|Claudie|Owain|413-567-2349|Valley Edge|8090 Rusk Plaza|Springfield|MA|01114|5100173866902490|Books|4955.82|Games|9218.06|Music|1048.13
+131|Clary|Hoggins|718-901-3932|Forest|9 Hollow Ridge Lane|Staten Island|NY|10305|374622211254791|Kids|3933.17|Clothing|8786.26|Health|4777.07
+132|Aldo|Coggin|504-689-6991|Dahle|5 Coolidge Park|New Orleans|LA|70174|3584143708742131|Outdoors|5508.79|Home|1618.53|Garden|9448.56
+133|Annissa|Bosquet|251-148-3784|David|61986 Randy Parkway|Mobile|AL|36689|560225406415756825|Games|1402.98|Garden|7182.76|Beauty|5643.81
+134|Veriee|Lothean|203-996-4875|Sullivan|602 Redwing Trail|Stamford|CT|06905|6381511188521985|Games|8045.27|Garden|2099.96|Home|9803.39
+135|Dominick|Rehorek|423-528-9527|Hoepker|731 Colorado Place|Chattanooga|TN|37405|3538275839848937|Outdoors|2688.75|Automotive|60.71|Music|337.89
+136|Kristoffer|Jago|360-760-0519|American Ash|487 Doe Crossing Circle|Seattle|WA|98104|6390147444320398|Outdoors|3855.82|Music|8900.48|Tools|43.08
+137|Claudetta|Harp|504-475-0778|Johnson|1897 Kingsford Place|New Orleans|LA|70142|6709004029974881|Beauty|240.01|Outdoors|5156.55|Movies|7487.76
+138|Wallache|Astall|304-744-7279|Armistice|375 Menomonie Parkway|Huntington|WV|25726|3530150775193952|Tools|9506.47|Music|6157.90|Industrial|2319.76
+139|Erica|Gibbonson|937-312-7650|Bowman|873 Lighthouse Bay Alley|Dayton|OH|45408|58930998326977459|Beauty|7423.29|Baby|5284.90|Sports|7277.14
+140|Marinna|Rosenbarg|518-630-5760|Memorial|0 Prentice Drive|Albany|NY|12232|5457862244663647|Computers|2856.06|Toys|4433.35|Outdoors|6941.41
+141|Alfreda|Whyler|513-661-9727|Sunnyside|71 Lindbergh Terrace|Cincinnati|OH|45999|5602244401775957|Grocery|7650.33|Movies|6042.17|Sports|6695.68
+142|Fidela|Currell|757-463-8003|Claremont|9556 Sycamore Street|Chesapeake|VA|23324|3538584352041113|Shoes|5566.34|Outdoors|2310.66|Jewelry|2808.47
+143|Krystal|Browning|412-226-2980|Scoville|4 Carioca Avenue|Pittsburgh|PA|15286|3572876295457365|Music|2319.61|Baby|1330.84|Automotive|3580.52
+144|Blythe|Binge|806-654-4159|Dovetail|2 Reinke Street|Lubbock|TX|79452|63044219470499742|Beauty|9557.00|Games|2286.99|Outdoors|2594.83
+145|Krishna|Edgeworth|901-116-7370|Northfield|179 Sommers Street|Memphis|TN|38143|0604647763585488084|Clothing|7011.65|Kids|7793.81|Electronics|4757.48
+146|Allayne|Shoebotham|913-823-0186|Sunfield|218 Rockefeller Crossing|Kansas City|KS|66105|337941585607749|Clothing|8006.46|Home|4249.84|Industrial|5480.60
+147|Francisca|Hilhouse|202-968-2440|Gerald|72 Luster Parkway|Washington|DC|20022|5641824576046219662|Books|5794.69|Automotive|9586.21|Outdoors|7419.01
+148|Quintana|Hillen|415-975-3450|Nancy|67935 Del Mar Lane|San Francisco|CA|94142|3585383040662519|Home|7250.76|Kids|8831.98|Grocery|5111.03
+149|Ilyssa|Meikle|561-551-8896|Caliangt|2468 Towne Pass|Delray Beach|FL|33448|5556036861517044|Clothing|9790.03|Industrial|3776.82|Industrial|9436.59
+150|Maegan|Veall|786-662-2609|Amoth|3 Clemons Parkway|Miami|FL|33142|370777883725934|Shoes|1467.83|Books|9015.77|Movies|9428.61
+151|Starlin|Broddle|813-697-9226|Hooker|02 Harper Trail|Tampa|FL|33605|3563927586061852|Jewelry|2382.68|Computers|3373.93|Movies|4505.87
+152|Herb|Barfitt|630-166-1182|Hoepker|7992 Sullivan Road|Chicago|IL|60604|36955598295049|Garden|8010.68|Books|9173.92|Industrial|6584.44
+153|Thomasin|Steagall|208-564-4606|Hanson|3 Lighthouse Bay Crossing|Pocatello|ID|83206|5610373432903385|Jewelry|6064.93|Computers|6239.22|Games|3611.80
+154|Constantin|Esseby|203-194-1377|Rigney|6 Amoth Court|Stamford|CT|06912|4905756036715384943|Toys|6660.77|Games|4223.67|Games|1892.80
+155|Easter|Jeanet|281-815-7606|Sommers|0 Eagan Terrace|Houston|TX|77070|4205408431253|Sports|8159.98|Automotive|2746.67|Industrial|4518.45
+156|Bevon|MacKee|954-341-2628|Stephen|7 Glacier Hill Drive|Fort Lauderdale|FL|33315|3542833252171189|Shoes|5730.36|Sports|4337.45|Beauty|1348.28
+157|Claudianus|Matschuk|760-966-1490|Straubel|5 Crescent Oaks Circle|San Diego|CA|92127|3548531177593388|Music|8520.28|Clothing|3244.13|Games|8646.90
+158|Vivien|Brooksbie|805-108-0922|Dixon|9 West Drive|San Luis Obispo|CA|93407|4911880199250452|Home|2956.08|Books|5701.55|Music|5442.41
+159|Gardiner|Hauch|618-229-1986|Bashford|450 Grasskamp Plaza|East Saint Louis|IL|62205|6384931526909469|Books|7777.26|Electronics|7781.54|Outdoors|6962.72
+160|Trista|Dauber|972-706-9565|Cody|9 School Point|Dallas|TX|75246|5602221389595425|Clothing|8450.49|Toys|5976.93|Jewelry|2940.90
+161|Patti|Hunnable|609-461-7136|Knutson|59 Vernon Avenue|Trenton|NJ|08638|5546191063069550|Jewelry|4701.13|Clothing|7041.47|Health|3048.99
+162|Malanie|Tander|757-762-1315|Green Ridge|860 Bluejay Trail|Suffolk|VA|23436|5602245152563534|Music|9721.98|Kids|2443.57|Baby|2647.07
+163|Jacky|Gleed|202-558-4162|Crownhardt|32219 8th Road|Washington|DC|20067|3565059751088334|Industrial|1525.25|Music|6505.87|Electronics|5220.93
+164|Kira|Flanagan|210-397-1654|Arizona|5 Elgar Road|San Antonio|TX|78215|3556787654745540|Baby|796.01|Sports|5035.73|Outdoors|14.90
+165|Malissa|Dawnay|541-755-5022|Sloan|502 Melrose Hill|Eugene|OR|97405|4903686594889434|Beauty|3964.29|Games|1211.86|Music|883.18
+166|Aurlie|Huertas|205-204-8603|Everett|67694 Scoville Way|Birmingham|AL|35244|374622006574270|Tools|3986.84|Grocery|6129.29|Games|5264.14
+167|Celisse|Hassall|202-508-2674|Bay|5 Superior Alley|Washington|DC|20580|3528739002467652|Sports|5684.05|Games|1667.80|Games|8306.86
+168|Judith|Wyley|601-175-0318|Toban|37 Duke Hill|Jackson|MS|39216|3584688318762267|Beauty|7718.55|Health|5621.28|Grocery|866.19
+169|Demetris|Bartlomiejczyk|801-983-5554|Sherman|61 Burning Wood Road|Provo|UT|84605|5100140684938378|Baby|9320.31|Automotive|3291.01|Health|8889.51
+170|Zara|Marsham|559-398-7517|Buhler|4 Grasskamp Alley|Fresno|CA|93794|3572538402978119|Computers|8899.34|Outdoors|3534.58|Electronics|9545.70
+171|Trueman|Eminson|202-366-4619|Roth|0644 Mendota Trail|Washington|DC|20046|3561016885569211|Games|8138.85|Toys|52.66|Toys|9675.50
+172|Debbi|Rummery|214-799-4947|Corscot|403 Maryland Road|Dallas|TX|75216|3578724762696681|Clothing|9056.10|Grocery|9201.79|Games|8610.73
+173|Hamid|Cottam|804-623-9087|Fallview|56279 Toban Junction|Richmond|VA|23220|3561675785031992|Electronics|2526.39|Baby|7910.63|Industrial|8957.29
+174|Elset|Lehenmann|916-728-5896|Iowa|4462 Ridgeway Park|Sacramento|CA|95894|3554298762812703|Movies|2034.95|Movies|8356.76|Baby|4194.72
+175|Kirstin|Kells|816-836-2993|John Wall|4 Riverside Avenue|Kansas City|MO|64109|3558041080792173|Kids|5943.57|Computers|9593.92|Games|1506.15
+176|Karlie|Spinelli|772-124-9190|Crest Line|01921 Declaration Trail|Vero Beach|FL|32969|373879184313449|Music|7839.11|Electronics|9884.93|Baby|1843.81
+177|Trudey|Rable|901-475-3106|Sundown|67 Prentice Point|Memphis|TN|38136|374622759408080|Movies|5596.10|Music|2901.07|Books|1797.26
+178|Malcolm|Gauler|720-910-5886|Nevada|0107 Commercial Park|Littleton|CO|80161|3528923521667923|Tools|8754.54|Outdoors|5249.12|Tools|680.35
+179|Mina|Ellesworth|831-545-4506|Fisk|335 Magdeline Street|Santa Cruz|CA|95064|5602255449480674430|Industrial|2006.61|Sports|3411.94|Industrial|2202.78
+180|Rudolph|Durgan|202-230-0041|Fordem|1549 Mayer Alley|Washington|DC|20067|3550657931306752|Shoes|4519.20|Home|9941.31|Health|8041.51
+181|Ruthy|Smidmoor|860-640-9371|Heffernan|19196 Stoughton Place|Hartford|CT|06183|30073232991100|Garden|2101.67|Outdoors|7450.03|Sports|4648.68
+182|Karleen|Debell|913-151-2195|Merchant|193 Crownhardt Point|Shawnee Mission|KS|66286|3559867799544417|Toys|4263.93|Electronics|3785.20|Baby|7825.87
+183|Collie|Noar|704-912-8024|Kingsford|6 La Follette Terrace|Charlotte|NC|28278|4905123256807627|Games|5043.57|Jewelry|155.20|Movies|4365.04
+184|Archie|Kittless|256-724-8141|North|72 Havey Avenue|Huntsville|AL|35895|4041593305659|Automotive|2263.10|Baby|1767.10|Baby|5525.44
+185|Brittani|Eakins|828-336-3029|Swallow|7062 Johnson Parkway|Asheville|NC|28815|3541826795678190|Clothing|7220.23|Electronics|5715.93|Electronics|9086.41
+186|Lindsay|Barlass|615-791-3570|Forest Dale|06709 Forest Run Court|Nashville|TN|37205|3532030790267494|Automotive|7572.64|Music|3482.01|Sports|4547.17
+187|Frazer|Stiegars|516-632-3043|Carey|2 Graedel Crossing|Hicksville|NY|11854|3560614471637219|Tools|3713.60|Shoes|4375.55|Music|1797.54
+188|Sheila|Dunmore|202-234-2071|Express|58 Dorton Place|Washington|DC|20062|502078679317598608|Home|2675.01|Baby|1855.05|Toys|9316.40
+189|Wildon|Kirman|972-226-4955|Ilene|07348 Prairie Rose Alley|Dallas|TX|75342|3579558753779265|Movies|8985.12|Baby|9786.28|Beauty|1125.47
+190|Michaella|Farryann|915-193-2358|Trailsway|9504 Nelson Court|El Paso|TX|79950|3576198181744160|Grocery|232.12|Shoes|5358.17|Health|2166.40
+191|Jon|Budgeon|719-262-7902|Hoepker|5 Village Green Road|Colorado Springs|CO|80945|5172706936751182|Books|7681.86|Health|666.12|Music|6678.51
+192|Thor|Charville|812-616-6752|Calypso|3 Fallview Drive|Evansville|IN|47737|201444102198857|Baby|5735.93|Games|5704.32|Garden|49.84
+193|Derry|Bridges|713-667-4628|Holy Cross|1253 Erie Lane|Houston|TX|77281|3534639959085675|Kids|4335.93|Movies|2534.18|Automotive|5562.18
+194|Vanessa|Bretland|404-850-3178|Pond|6 Kensington Circle|Atlanta|GA|30306|6331105665261078593|Electronics|2605.63|Industrial|9671.63|Music|5676.17
+195|Marley|Alesio|202-912-2417|Hallows|18 Superior Trail|Washington|DC|20530|3568431071095843|Automotive|3598.60|Movies|1739.96|Beauty|9699.08
+196|Willie|Newton|504-728-2938|Aberg|9836 Sycamore Crossing|New Orleans|LA|70129|30590119759284|Games|219.57|Jewelry|4827.25|Health|6941.03
+197|Roderick|Mackness|316-916-5561|Fremont|4227 Schurz Place|Wichita|KS|67230|3549633117026096|Books|2719.02|Automotive|4985.77|Clothing|4569.29
+198|Morena|Luxton|212-896-1531|Badeau|4 Graceland Junction|New York City|NY|10249|3544419747088721|Books|9717.17|Baby|9372.93|Kids|9447.74
+199|Lorette|Orts|202-400-8797|Independence|15 Buena Vista Circle|Washington|DC|20414|5602259880574226|Music|2209.02|Computers|8370.60|Toys|3006.57
+200|Stafani|Kenyon|404-230-7995|Bunting|510 Waxwing Center|Atlanta|GA|30386|676235687180597088|Books|6018.80|Shoes|7369.42|Shoes|9374.11
+201|Mandel|Mighele|571-143-5756|Hudson|7116 Donald Lane|Vienna|VA|22184|6763220653786788|Kids|631.70|Baby|7206.85|Games|9878.88
+202|Darice|Kenningham|727-312-1620|Lyons|875 Aberg Circle|Largo|FL|33777|3551542475968416|Industrial|7218.01|Home|1956.20|Jewelry|4350.54
+203|Chrystal|Philpin|626-214-3434|Eastlawn|57 Bunker Hill Court|Pasadena|CA|91117|5602237288835589|Kids|9841.66|Computers|8091.05|Tools|3750.63
+204|Tobiah|Gonthard|810-294-7424|Goodland|02312 Luster Pass|Flint|MI|48505|3566071037286268|Sports|8566.85|Health|875.98|Automotive|4825.27
+205|Terrijo|Scafe|915-511-6975|Knutson|453 Spenser Road|El Paso|TX|79940|3586764615598841|Home|3555.61|Movies|9105.81|Grocery|4469.98
+206|Briano|Pumfrett|559-517-3261|Kinsman|3 American Circle|Fullerton|CA|92640|4917683590664915|Baby|5859.76|Shoes|8759.08|Music|7715.96
+207|Isabelita|Livard|850-349-9264|Cordelia|6323 Texas Junction|Tallahassee|FL|32304|3553775523028332|Grocery|3935.57|Kids|2632.34|Clothing|4080.06
+208|Martie|Hounsom|858-296-2853|Northridge|8496 Victoria Place|San Diego|CA|92105|676213226905762945|Home|3947.22|Tools|8913.82|Movies|2234.69
+209|Kirstin|Krienke|713-712-3125|Merry|5 Warner Crossing|Houston|TX|77240|3587262779184515|Clothing|7716.30|Shoes|999.52|Baby|6534.41
+210|Ayn|Izatt|520-610-7814|Hermina|8 Ohio Trail|Tucson|AZ|85710|6763184120496399|Baby|993.68|Health|1346.29|Sports|8585.73
+211|Thea|Martinello|626-138-5061|Claremont|3 Starling Way|Alhambra|CA|91841|676114464541953475|Kids|5184.69|Beauty|8294.47|Electronics|9132.61
+212|Brina|Trueman|954-256-1333|Oxford|2 Hauk Way|Fort Lauderdale|FL|33325|3566887213992670|Computers|2610.09|Health|188.01|Garden|1624.77
+213|Cynthia|Lowen|314-377-6188|Hagan|853 Straubel Point|Saint Louis|MO|63131|3553496812788573|Clothing|2448.24|Baby|9791.76|Health|9621.39
+214|Lorne|Woofendell|609-612-3088|Acker|0645 School Alley|Trenton|NJ|08650|4936641481072390733|Jewelry|223.71|Baby|2532.83|Baby|6618.75
+215|Deana|Sibthorp|909-970-4618|Declaration|589 Novick Point|Riverside|CA|92505|3582157830262067|Clothing|1082.07|Books|1043.07|Shoes|6525.49
+216|Sherman|Shoveller|812-827-7715|5th|6446 Ruskin Junction|Evansville|IN|47712|5100131271058613|Shoes|9073.53|Baby|5263.29|Computers|8607.84
+217|Margaux|Tregonna|757-493-1509|Goodland|354 Anthes Plaza|Hampton|VA|23663|5020355424395393|Baby|980.09|Movies|1324.38|Garden|9994.53
+218|Corrie|MacGibbon|804-119-6279|Melody|8 Independence Lane|Richmond|VA|23293|3583553283101647|Kids|6286.88|Automotive|2603.80|Industrial|293.27
+219|Hayley|Kelsell|202-163-0421|Summer Ridge|5 Schurz Road|Washington|DC|20073|3539955154723927|Shoes|4726.75|Automotive|3662.36|Kids|1536.51
+220|Charis|Lewington|719-231-7674|Spenser|3335 Bluestem Plaza|Colorado Springs|CO|80905|5602211035945850|Outdoors|4818.76|Health|5675.02|Toys|4124.16
+221|Gardner|Hexam|818-648-2010|Golf Course|6356 Express Avenue|Glendale|CA|91210|3580611677898666|Beauty|4620.95|Jewelry|8946.68|Garden|2483.19
+222|Ashton|Oakwood|213-614-9022|Hovde|0412 Gale Plaza|Los Angeles|CA|90055|3552611139199889|Home|4798.68|Games|1940.27|Computers|9347.60
+223|Wilmer|Marfell|214-425-1397|Summit|5855 Garrison Lane|Dallas|TX|75379|6386067197511298|Health|8470.12|Industrial|9886.22|Music|9136.87
+224|Darrin|Frisby|515-761-0912|Butterfield|49395 Rieder Street|Des Moines|IA|50305|060458019472201277|Books|3459.33|Movies|2827.25|Computers|9042.89
+225|Danny|Mistry|202-158-6721|Kinsman|4654 Dapin Circle|Washington|DC|20442|30438965015858|Computers|7396.10|Sports|595.92|Jewelry|1443.65
+226|Patin|Bocking|505-653-2800|Hoffman|24 Sunbrook Park|Santa Fe|NM|87505|4041371222050|Sports|3462.15|Books|1592.36|Sports|2.09
+227|Barnard|Kops|972-825-5082|Alpine|52849 Elgar Place|Dallas|TX|75210|6767796860607343|Electronics|6572.27|Books|1158.46|Automotive|4080.96
+228|Paula|Durtnall|603-501-5948|Golf View|17609 Service Place|Portsmouth|NH|03804|6763016550082847859|Beauty|5223.18|Books|3997.10|Health|6170.74
+229|Emily|Troyes|813-308-8475|Vera|026 Kipling Place|Tampa|FL|33620|201959694259833|Toys|4581.69|Books|9275.74|Kids|8812.35
+230|Tully|Andreev|312-644-0637|Sugar|8 Forest Dale Circle|Chicago|IL|60663|3532750286224275|Computers|937.02|Home|9913.23|Baby|4520.57
+231|Ignace|Jelks|601-870-7878|Dawn|82 Dapin Street|Hattiesburg|MS|39404|3532346370612648|Outdoors|6346.80|Books|8552.47|Health|2597.15
+232|Chantal|Yandle|901-212-8464|Division|355 Novick Trail|Memphis|TN|38136|3553690169605444|Music|6991.55|Sports|7581.44|Music|9376.56
+233|Donn|Zelake|562-217-9610|Gina|4761 Comanche Pass|Los Angeles|CA|90071|3561812427294924|Games|7784.33|Music|6255.38|Baby|6475.29
+234|Brita|Mabbot|727-121-7012|Banding|1 Hoard Drive|Largo|FL|34643|6397071242461332|Automotive|75.49|Books|1498.49|Shoes|6135.17
+235|Tedra|Jesteco|352-616-9655|Hermina|72 Delladonna Hill|Gainesville|FL|32610|30101655639110|Books|8130.97|Beauty|918.07|Shoes|6936.61
+236|Almira|Courvert|703-478-8342|Truax|1 Debs Park|Alexandria|VA|22309|3540231160062933|Jewelry|7570.89|Clothing|2669.55|Automotive|7527.23
+237|Leopold|Moen|915-439-6938|Barnett|39 Monica Junction|El Paso|TX|88535|3540461116739884|Shoes|5985.14|Beauty|2754.59|Grocery|2689.23
+238|Brewster|Biddlestone|336-343-2196|Grayhawk|163 Michigan Trail|Winston Salem|NC|27150|5002352272532393|Books|380.62|Clothing|9229.67|Tools|5371.72
+239|Derrek|Vernall|757-761-4972|Gina|782 Declaration Parkway|Norfolk|VA|23514|3589359463995905|Health|8093.75|Jewelry|737.90|Kids|7132.32
+240|Maude|Adel|540-740-7458|Thierer|328 Tomscot Court|Roanoke|VA|24040|3554792549649347|Jewelry|9550.22|Sports|5083.49|Kids|6116.98
+241|Donielle|Cullotey|504-357-5492|Annamark|26951 Arapahoe Parkway|New Orleans|LA|70183|6771371742373847|Clothing|7038.79|Movies|7864.03|Computers|2962.65
+242|Marta|Lipp|304-676-0902|Del Mar|00595 Morrow Point|Charleston|WV|25326|67091330020513214|Sports|4591.27|Music|4299.72|Movies|4860.49
+243|Elwyn|Deevey|843-257-8482|Spenser|092 Birchwood Crossing|Myrtle Beach|SC|29579|3580430862668887|Automotive|5739.35|Computers|3457.03|Electronics|7058.84
+244|Susi|Utton|510-211-8631|Corry|78993 Meadow Ridge Court|Oakland|CA|94660|3568658756277185|Jewelry|9133.80|Kids|3741.99|Automotive|8706.65
+245|Petra|Schulke|309-806-1296|7th|5 Crest Line Court|Peoria|IL|61605|3557376351092163|Industrial|9764.47|Baby|5327.02|Outdoors|849.38
+246|Esma|Sirett|517-108-2836|Sage|09 Eliot Court|Lansing|MI|48956|201929219589063|Shoes|1030.86|Outdoors|8554.29|Tools|3026.57
+247|Sharlene|Crumpe|626-621-0692|Mcbride|45 Rusk Place|Pasadena|CA|91186|3532285327003966|Books|6781.39|Grocery|4828.43|Electronics|3145.37
+248|Siward|Bradd|213-156-8625|Scott|906 Fremont Parkway|Los Angeles|CA|90055|560223964616697059|Jewelry|1661.06|Automotive|6228.68|Outdoors|3580.11
+249|Luciano|McCormick|404-205-1303|Acker|7 Melrose Circle|Atlanta|GA|31136|5216601672427600|Baby|6508.23|Automotive|2375.92|Baby|1988.02
+250|Tessi|Swenson|229-187-5812|Roth|9144 Nancy Point|Valdosta|GA|31605|4017959755638|Jewelry|9450.30|Jewelry|3199.32|Toys|6050.31
+251|Deane|Illingworth|516-932-6026|Mesta|5 Waubesa Hill|Jamaica|NY|11407|4041372934070562|Clothing|9533.44|Computers|5449.63|Jewelry|1227.09
+252|Bradly|Banasevich|206-890-3733|Arkansas|4527 Ridgeview Avenue|Seattle|WA|98148|4175001596189455|Books|9952.85|Automotive|6173.73|Computers|8588.39
+253|Theresina|Hagyard|215-886-6470|Mariners Cove|12 Granby Park|Philadelphia|PA|19178|3567177119012818|Electronics|4085.74|Garden|4402.38|Shoes|2417.87
+254|Maurene|MacGarvey|706-107-0406|Bunker Hill|0 Dottie Parkway|Augusta|GA|30911|3580753991359577|Beauty|3830.05|Industrial|5500.31|Home|5162.32
+255|Caprice|Wetter|954-718-3297|Randy|155 Dorton Crossing|Fort Lauderdale|FL|33325|3535153962955824|Books|2329.74|Grocery|7488.75|Music|8041.65
+256|Aldrich|Hurche|850-916-5189|Anzinger|1142 Merrick Crossing|Pensacola|FL|32520|67097643451129001|Computers|799.89|Movies|5261.37|Jewelry|943.02
+257|Werner|Ege|217-681-4516|Hooker|531 Bashford Avenue|Decatur|IL|62525|349853548807165|Outdoors|1230.79|Health|5513.39|Tools|3731.64
+258|Wolfy|Cubbini|504-733-5638|Northridge|7793 Lotheville Court|New Orleans|LA|70129|30391806676588|Health|4956.82|Beauty|3133.63|Industrial|2603.57
+259|Delmor|Prangle|609-993-1419|Jenifer|3 Linden Park|Trenton|NJ|08695|5602221713916321|Music|6006.05|Kids|6913.45|Beauty|7752.21
+260|Tally|Purkis|518-986-0759|Nancy|824 Anhalt Way|Albany|NY|12262|3546313858260179|Toys|7539.40|Books|5913.36|Grocery|5900.07
+261|Inga|Caulcutt|205-721-4866|Dryden|76 Service Court|Birmingham|AL|35295|30406875439815|Games|812.45|Grocery|312.05|Movies|4003.16
+262|Merline|Stood|843-421-4270|Mccormick|3769 Victoria Circle|Charleston|SC|29424|4017952519056|Industrial|7673.65|Home|4198.07|Grocery|1565.60
+263|Lonee|Simmell|770-147-1727|South|44729 Mallory Point|Atlanta|GA|30316|3544706858899171|Industrial|3813.46|Movies|9716.85|Beauty|903.62
+264|Jewelle|Joy|210-134-0419|Washington|16603 Bay Drive|San Antonio|TX|78278|4041378467173046|Outdoors|3568.24|Automotive|1122.15|Beauty|8518.84
+265|Margy|Mathelon|304-611-7188|Maywood|64 Vermont Point|Charleston|WV|25331|5602210851715173|Baby|5439.42|Games|357.46|Electronics|4000.94
+266|Kalli|Gudge|336-170-8468|Di Loreto|324 Shelley Alley|High Point|NC|27264|560222523417777766|Health|634.56|Jewelry|3311.24|Beauty|8687.95
+267|Bryan|Passfield|770-169-1561|Vera|496 Heath Parkway|Marietta|GA|30061|5602258786884135|Tools|1317.99|Grocery|8900.62|Grocery|3853.16
+268|Nita|Studdeard|713-406-3384|Del Mar|56 Nevada Drive|Houston|TX|77223|5602227306789538|Automotive|8728.76|Outdoors|1923.15|Garden|7455.41
+269|Stanfield|Teese|215-580-2924|Gale|6040 Transport Junction|Philadelphia|PA|19093|5002355017791786|Music|9682.31|Grocery|2109.24|Toys|2839.60
+270|Thia|Vain|941-177-7989|Haas|25 Coolidge Point|Bradenton|FL|34210|3552581687204771|Music|6771.36|Industrial|6266.21|Beauty|5447.72
+271|Noellyn|Mardee|713-588-3063|Dayton|312 Bluestem Alley|Houston|TX|77223|3562211102684088|Beauty|5165.41|Outdoors|4204.97|Computers|3705.19
+272|Garnette|Tabourel|512-797-2335|Reinke|55 Cody Parkway|Austin|TX|78769|6759416034858173|Jewelry|8788.01|Games|1670.63|Health|8967.28
+273|Mair|Cready|850-131-8293|Cardinal|633 Granby Pass|Panama City|FL|32412|501816971299502297|Computers|3646.65|Shoes|3456.64|Games|4973.39
+274|Wernher|Bridgewater|970-453-7849|Grasskamp|322 Commercial Park|Fort Collins|CO|80525|5364714151975617|Toys|4735.38|Kids|2518.60|Industrial|9156.01
+275|Eolanda|Dumsday|816-677-3229|Scoville|01 Cardinal Road|Kansas City|MO|64187|3550982707130917|Books|8128.14|Automotive|5457.72|Automotive|4189.02
+276|Puff|Deacock|202-758-3266|Sunfield|351 Service Parkway|Washington|DC|20430|5433618868845087|Clothing|3385.89|Shoes|3541.58|Shoes|9234.68
+277|Rickey|Perrins|517-334-8986|Mallory|00038 Linden Pass|Lansing|MI|48912|5602223922430334|Home|7298.31|Tools|3158.46|Toys|8808.79
+278|Jelene|Cumes|901-420-9596|Schurz|95 Armistice Drive|Memphis|TN|38150|5007668545091304|Music|9433.32|Outdoors|4830.44|Outdoors|7722.96
+279|Claus|Aveson|602-517-9648|Heath|8 Calypso Court|Phoenix|AZ|85040|589347013751700540|Games|9316.76|Computers|1685.65|Electronics|8879.52
+280|Cecelia|Tume|808-342-4440|Loftsgordon|1 Cardinal Point|Honolulu|HI|96825|3588254071167792|Beauty|1262.80|Movies|8598.01|Kids|2098.13
+281|Trace|Pridden|763-721-1478|Nelson|30991 Birchwood Point|Monticello|MN|55590|6761761630690386317|Garden|3822.46|Books|8709.21|Books|8238.08
+282|Joanie|Noweak|859-839-1636|Doe Crossing|42 Sutherland Pass|Lexington|KY|40596|5275274108788462|Kids|628.39|Home|8735.86|Industrial|4980.83
+283|Gale|Scutter|-882-4487|Shelley|8 Tony Crossing|Pittsburgh|PA|15266|4844834694615737|Computers|8515.37|Music|2908.16|Books|7198.06
+284|Arther|Petyt|816-654-4110|Buell|32890 Stang Circle|Saint Joseph|MO|64504|3555740106781333|Sports|827.62|Grocery|4479.02|Garden|4501.47
+285|Alexina|Minihane|215-642-9263|Green Ridge|0 Scofield Drive|Philadelphia|PA|19191|3588427971371330|Industrial|6172.34|Grocery|9343.68|Baby|6187.25
+286|Avictor|Gamlyn|850-131-3852|Towne|536 Heffernan Way|Pinellas Park|FL|34665|670674384129097690|Movies|2391.40|Garden|4710.40|Automotive|380.34
+287|Buiron|Brandli|315-378-3907|Stang|435 Sunbrook Hill|Syracuse|NY|13210|3587398497242654|Movies|8363.22|Beauty|2153.74|Beauty|8049.74
+288|Arleen|Feuell|304-294-9322|Stone Corner|3913 Helena Lane|Huntington|WV|25770|5018818175592140|Jewelry|5150.57|Shoes|154.70|Toys|5891.03
+289|Graehme|Leaney|716-270-8888|Debra|77 Arrowood Road|Buffalo|NY|14225|5108754663678318|Clothing|7030.14|Industrial|390.06|Books|5669.30
+290|Maia|Lulham|913-638-5603|Commercial|17 Fairfield Point|Shawnee Mission|KS|66276|0604275585421548568|Sports|8968.86|Home|5404.82|Beauty|8001.67
+291|Deanne|Rapley|602-562-3488|School|6 Farwell Point|Phoenix|AZ|85083|36706546893579|Kids|3766.05|Games|4684.08|Health|5456.36
+292|Cthrine|Darinton|509-505-4160|Sunnyside|93 West Junction|Spokane|WA|99260|3540508267065582|Garden|1522.79|Sports|8373.49|Industrial|8596.71
+293|Alister|Barkus|828-726-1471|Melrose|9 Banding Crossing|Asheville|NC|28815|3540397379919898|Health|7190.66|Baby|5661.12|Automotive|7452.52
+294|Erich|Orto|703-508-2497|Rockefeller|0793 Roxbury Junction|Reston|VA|20195|5496605156138956|Clothing|3623.48|Health|7350.00|Books|9164.09
+295|Darnell|Fesby|518-767-0457|Express|85287 Mallory Plaza|Albany|NY|12232|3572640277000332|Computers|6403.21|Shoes|5107.52|Beauty|6366.75
+296|Ally|Butterly|915-851-7272|Huxley|2 Trailsway Junction|El Paso|TX|79989|3571157100840223|Grocery|2826.42|Home|5056.91|Kids|8504.40
+297|Brion|Lindenfeld|434-104-6913|Hoepker|3673 Hoffman Circle|Manassas|VA|22111|30307976318827|Beauty|609.94|Clothing|2281.68|Health|8514.06
+298|Lari|Rabbatts|361-134-4489|Iowa|094 South Junction|Corpus Christi|TX|78465|5602252512177088|Baby|9241.84|Health|5560.03|Automotive|96.25
+299|Ilaire|Arch|972-389-5064|Elmside|42 Grasskamp Alley|Dallas|TX|75221|3537217793067212|Outdoors|175.89|Clothing|2382.43|Tools|8111.42
+300|Sashenka|Piaggia|212-441-1422|Kim|981 Toban Junction|New York City|NY|10125|6761717435658656726|Industrial|6398.21|Toys|9339.34|Tools|3403.39
+301|Malissa|Denford|727-294-1540|Arrowood|9 Garrison Street|Saint Petersburg|FL|33715|670636123932502216|Music|5533.52|Health|4291.32|Movies|3475.61
+302|Tyson|Ingarfield|806-322-9568|Veith|330 Fordem Trail|Amarillo|TX|79116|201406787286372|Clothing|1087.14|Electronics|3331.34|Books|9783.36
+303|Lotty|Labdon|321-289-0601|Fulton|5 Stoughton Way|Melbourne|FL|32919|3553492358649055|Industrial|6382.29|Kids|9035.30|Outdoors|3482.55
+304|Obadiah|Zavattero|859-834-5681|Brickson Park|41 Delladonna Court|Lexington|KY|40586|67610852772354978|Shoes|4750.63|Kids|6055.95|Outdoors|7198.38
+305|Ashlie|Franzen|915-830-1796|Memorial|75334 Johnson Road|El Paso|TX|79923|3581454371232794|Music|8095.34|Sports|473.51|Outdoors|7601.59
+306|Aksel|Greswell|415-547-3742|Ronald Regan|822 Mcbride Parkway|San Francisco|CA|94116|4017954430939703|Computers|6624.06|Grocery|9662.80|Clothing|9143.19
+307|Sheryl|Everett|214-331-5293|Forest Run|8167 Elgar Junction|Arlington|TX|76096|6374751970865591|Beauty|629.05|Beauty|5011.29|Movies|8115.05
+308|Tova|Caird|603-194-2869|Ridge Oak|0 Carberry Lane|Portsmouth|NH|03804|3583571137397757|Health|4992.55|Industrial|335.40|Outdoors|5755.19
+309|Dermot|Rachuig|253-203-3826|Lukken|387 Meadow Vale Center|Olympia|WA|98516|3584558525475765|Outdoors|2601.49|Computers|6479.70|Shoes|308.14
+310|Jackelyn|Senussi|989-508-6476|Stoughton|6 Forest Run Parkway|Midland|MI|48670|5532253802061136|Garden|1802.71|Shoes|1197.57|Shoes|5513.27
+311|Karel|Iskower|818-919-6685|Sauthoff|55 Messerschmidt Parkway|Los Angeles|CA|90005|3554285631476547|Home|7356.76|Automotive|1861.89|Baby|6973.87
+312|Aurelea|Curd|217-240-4479|Londonderry|0 Sundown Lane|Springfield|IL|62723|3531760398247776|Books|1.33|Jewelry|9931.96|Books|5025.61
+313|Franchot|Kleinholz|281-375-0947|Hoard|24 Harbort Plaza|Houston|TX|77035|30023464270939|Sports|5065.08|Tools|3968.83|Garden|5018.26
+314|Alvan|Samson|352-895-2336|Graedel|841 Surrey Alley|Ocala|FL|34474|5002352264383979|Automotive|7567.74|Health|8019.19|Electronics|1721.97
+315|Koral|Dominiak|423-959-4179|Talisman|99417 Monterey Parkway|Chattanooga|TN|37405|4405839463364657|Electronics|3014.36|Kids|0.37|Games|5683.55
+316|Ber|Riediger|214-412-3293|Redwing|28 Burning Wood Avenue|Dallas|TX|75387|5602217749125259|Shoes|1403.57|Toys|880.28|Computers|3653.09
+317|Cherida|Willford|309-265-1152|Mcguire|33 4th Place|Peoria|IL|61629|3529453892231603|Games|3470.88|Computers|7061.95|Clothing|1940.58
+318|Karlee|Landrean|850-696-1895|Grayhawk|4530 Swallow Road|Pensacola|FL|32590|5392536328922891|Music|4621.26|Computers|2858.68|Toys|2310.59
+319|Rosemonde|Cool|212-735-0235|Waywood|7404 Armistice Terrace|New York City|NY|10045|3545875805375657|Shoes|4691.18|Garden|7706.08|Outdoors|183.41
+320|Ursulina|Gayter|504-502-1015|Hazelcrest|6 Steensland Place|New Orleans|LA|70129|3588429343297003|Garden|7662.08|Baby|3195.20|Games|7343.26
+321|Klara|McKelvey|816-931-2174|Northland|24774 Kedzie Place|Kansas City|MO|64153|3565577146463060|Grocery|7648.04|Industrial|992.57|Movies|3183.56
+322|Sollie|Callard|713-259-4698|Bayside|16 Westridge Crossing|Houston|TX|77271|5100173805032680|Kids|207.67|Computers|5729.37|Music|823.97
+323|Karalee|Petch|562-573-6147|Thierer|779 Derek Terrace|Long Beach|CA|90805|3535612416480515|Grocery|8210.27|Tools|7576.12|Shoes|5103.63
+324|Thedric|Martinho|202-320-8688|Blaine|705 Dwight Plaza|Alexandria|VA|22301|3553175888343956|Garden|3607.22|Toys|7296.83|Industrial|6253.23
+325|Alick|O'Halloran|646-206-4999|Petterle|5838 Clemons Street|New York City|NY|10039|630426924482774867|Jewelry|8018.23|Toys|3847.90|Outdoors|9313.12
+326|Mallory|Clemenson|502-723-1095|Luster|8 Kenwood Lane|Louisville|KY|40215|060407356675585938|Electronics|4283.76|Automotive|9373.58|Grocery|2612.58
+327|Carie|Kubanek|330-947-3481|Buhler|75563 Carpenter Terrace|Warren|OH|44485|30508086513682|Baby|1117.50|Toys|9414.14|Industrial|6053.09
+328|Jacquie|Barlie|574-723-9951|Anhalt|910 Hazelcrest Drive|South Bend|IN|46699|6382693266386470|Garden|1446.52|Home|2079.14|Toys|182.77
+329|Lianne|Whittlesey|208-786-6843|Bunker Hill|76013 Surrey Terrace|Boise|ID|83732|5602244436311653|Garden|5718.19|Tools|2035.32|Tools|6243.00
+330|Malanie|Atkinson|720-398-9273|Hintze|03 Oakridge Plaza|Littleton|CO|80161|3577683584947337|Grocery|5414.28|Industrial|528.46|Jewelry|1790.19
+331|Trina|Blondin|717-201-5319|Grover|808 Sunnyside Crossing|Harrisburg|PA|17110|3572748097928283|Movies|9434.29|Grocery|5787.60|Kids|6506.59
+332|Noble|Hynd|336-867-5143|Prairieview|4 Bayside Drive|Greensboro|NC|27415|6763198015630079686|Clothing|1773.40|Health|4030.84|Kids|379.29
+333|Elwyn|O'Connolly|423-273-4401|Towne|4757 Eggendart Center|Chattanooga|TN|37410|3542029423650934|Health|4723.77|Home|991.50|Grocery|6384.08
+334|Louis|Edlyne|904-467-6218|Portage|2691 Graedel Terrace|Jacksonville|FL|32230|4911008669486808023|Industrial|6594.16|Baby|7524.90|Music|2562.76
+335|Clarey|Volet|850-555-9274|Clove|5125 Northport Crossing|Pensacola|FL|32526|30489969987667|Tools|1057.62|Tools|6633.00|Home|4789.59
+336|Bob|Goley|516-856-9982|Shasta|69 Westport Junction|Great Neck|NY|11024|633417383876782876|Books|2875.82|Electronics|3240.56|Beauty|2243.90
+337|Wilmette|Lorans|734-929-7262|Service|117 Bartelt Court|Dearborn|MI|48126|4026846217784394|Shoes|9712.28|Outdoors|1052.82|Home|8657.33
+338|Rosabel|Walsom|650-929-8532|Little Fleur|2371 Colorado Center|Palo Alto|CA|94302|3560771507466920|Computers|1651.31|Industrial|6814.76|Books|8383.94
+339|Eolanda|Archibald|415-784-0905|Hooker|767 Bobwhite Street|San Francisco|CA|94164|5602244193064271|Industrial|1444.57|Industrial|9080.42|Clothing|9418.61
+340|Florry|Schruur|614-769-9742|Algoma|98 Hermina Road|Columbus|OH|43215|3551690456768998|Games|4886.42|Home|7957.71|Music|9701.71
+341|Carmine|Galilee|309-171-1722|Stoughton|9 Veith Hill|Peoria|IL|61640|3552509282519459|Books|6720.14|Jewelry|4086.22|Kids|8802.75
+342|Shermy|Mannix|513-424-2501|Carberry|246 Rusk Terrace|Cincinnati|OH|45264|5020539003542694598|Sports|5369.37|Computers|3236.30|Toys|3742.40
+343|Liana|Vaudre|202-563-0623|Buhler|57515 Stone Corner Circle|Washington|DC|20456|5641828860379492|Outdoors|3956.00|Outdoors|4250.24|Health|4888.42
+344|Sanders|Poli|915-522-7320|Nova|59664 Stuart Parkway|El Paso|TX|88519|5018999215820593105|Music|4859.22|Garden|1138.16|Baby|3917.17
+345|Mitchell|Brockton|801-343-2937|La Follette|193 Alpine Alley|Salt Lake City|UT|84140|3568859281558830|Shoes|9436.85|Shoes|7045.75|Industrial|2805.49
+346|Harlen|Bazire|701-520-1814|Orin|6 Northwestern Park|Bismarck|ND|58505|201852889170917|Tools|7172.90|Kids|4523.54|Beauty|5091.44
+347|Wrennie|Matuska|412-136-0288|Anzinger|43 John Wall Circle|Pittsburgh|PA|15240|6397576429617738|Sports|4287.69|Home|2102.62|Games|3815.58
+348|Renie|Burnand|951-474-9700|Bay|15 Welch Park|Riverside|CA|92519|6334607156272987|Grocery|2401.47|Jewelry|8636.34|Electronics|3339.14
+349|Napoleon|Shalloo|813-940-1483|Old Gate|200 Cardinal Way|Tampa|FL|33610|3535154328197333|Toys|5576.76|Beauty|4739.52|Automotive|995.77
+350|Lisle|Efford|817-493-3853|Amoth|17 Dryden Street|Fort Worth|TX|76121|3555003685814557|Movies|8025.29|Baby|3598.89|Health|9655.55
+351|Anatole|Eadmeades|817-348-5733|Memorial|521 Hovde Junction|Fort Worth|TX|76147|3545907028915223|Games|3416.80|Health|5056.70|Movies|2321.18
+352|Alfi|Loughney|504-273-7315|Jackson|6 Sugar Street|New Orleans|LA|70160|3550748367988922|Books|8418.11|Beauty|6221.11|Shoes|4723.37
+353|Emelda|Dudleston|520-333-5380|Warrior|79 Brown Plaza|Tucson|AZ|85748|3580802208326588|Games|8063.41|Health|5363.97|Books|14.04
+354|Angy|Boner|773-494-5209|Red Cloud|2 Coolidge Road|Chicago|IL|60641|374288909984550|Toys|1527.87|Beauty|1645.87|Garden|4362.40
+355|Jim|Cumber|484-508-2426|Ridgeview|9749 Carioca Junction|Valley Forge|PA|19495|375565055090426|Sports|1679.29|Home|507.32|Books|8208.75
+356|Terese|Menear|215-119-7583|Crescent Oaks|2 Arrowood Alley|Philadelphia|PA|19093|5602220945694028802|Automotive|9092.48|Home|4384.97|Toys|9568.37
+357|Burnaby|Hudspith|704-580-5119|Heffernan|56 Porter Center|Charlotte|NC|28247|3575524588124246|Kids|7631.10|Outdoors|1923.77|Jewelry|672.15
+358|Regen|Sherrock|651-201-5310|Grover|280 Brown Street|Saint Paul|MN|55172|5100130710862254|Beauty|9555.00|Books|2177.08|Toys|8968.31
+359|Sharia|Rookwell|786-336-7864|Johnson|3 Larry Pass|Homestead|FL|33034|5545761943942514|Electronics|4908.79|Sports|3280.36|Health|8544.44
+360|Scotty|Concklin|916-712-3261|Mcbride|5 Barby Circle|Sacramento|CA|94280|201624453486775|Health|7816.16|Industrial|4998.81|Books|2566.16
+361|Janith|Mullan|217-666-4461|Oak Valley|060 Gerald Way|Springfield|IL|62705|3541882403714273|Grocery|4662.57|Music|7943.02|Shoes|2068.91
+362|Jade|Lande|901-427-4864|Glacier Hill|4850 Hanson Junction|Memphis|TN|38197|676782634977707584|Games|4981.54|Clothing|1364.85|Sports|1932.28
+363|Linnie|Dominec|518-161-8872|Marcy|29790 Meadow Valley Point|Albany|NY|12255|3568819327460599|Clothing|7759.65|Shoes|4642.43|Tools|5357.93
+364|Tremayne|Feldon|910-270-3439|Barnett|240 Mesta Park|Fayetteville|NC|28305|630406412096653358|Music|615.89|Industrial|8683.04|Home|3901.22
+365|Orrin|Calven|325-187-3652|Mesta|50 Helena Terrace|Abilene|TX|79605|5108751962199640|Industrial|9731.35|Tools|9917.63|Books|4503.29
+366|Sandy|Hamper|410-904-7612|4th|64 Amoth Circle|Baltimore|MD|21282|5602237336682868|Beauty|8893.77|Kids|658.78|Garden|7014.81
+367|Evie|Wrist|432-632-7625|Onsgard|03873 Maple Pass|Odessa|TX|79764|5038568974224344023|Tools|8401.98|Games|8660.93|Home|7075.81
+368|Dorey|Frushard|352-872-7467|Grim|0368 Basil Junction|Ocala|FL|34479|5530202479142465|Clothing|7488.53|Computers|4984.55|Shoes|3906.67
+369|Conway|Fortun|314-132-8792|Colorado|37712 Wayridge Crossing|Saint Louis|MO|63143|201721503798785|Electronics|804.89|Shoes|3112.78|Beauty|256.44
+370|Bernadette|Willcocks|813-297-7422|Daystar|97364 Sunnyside Alley|Tampa|FL|33680|5119573470270672|Automotive|1768.75|Automotive|1734.49|Grocery|3590.90
+371|Emalia|Heffer|216-388-9860|Magdeline|201 Wayridge Trail|Cleveland|OH|44197|3544963222393890|Toys|4877.07|Beauty|6922.19|Books|8665.72
+372|Lucila|Cominetti|225-150-4820|Forest|349 Blaine Hill|Baton Rouge|LA|70805|4405559068568037|Sports|4073.17|Movies|4675.63|Sports|5445.62
+373|Neile|Ianitti|212-409-0543|Londonderry|0818 Fieldstone Way|Jamaica|NY|11431|4844355184166189|Games|10.16|Garden|1501.96|Games|4384.72
+374|Jen|Baldi|202-802-7964|Nova|12382 Stephen Circle|Washington|DC|20425|3589157902325852|Movies|93.13|Health|3632.34|Grocery|1819.66
+375|Henryetta|Custy|786-999-7739|Basil|2776 Almo Road|Miami|FL|33164|5048379699485422|Music|7426.15|Grocery|7152.10|Clothing|1637.74
+376|Kial|Harmon|859-771-7562|Northfield|015 Hallows Drive|Lexington|KY|40596|3575350792345496|Jewelry|5751.71|Books|3821.32|Movies|2655.91
+377|Sandye|Stag|972-506-6570|Carey|3883 Spenser Road|Dallas|TX|75210|3570893706515162|Home|9988.44|Outdoors|8739.97|Outdoors|9567.38
+378|Millard|Jerrome|540-106-1071|Darwin|02735 Sunfield Alley|Roanoke|VA|24029|5100175160531479|Movies|5967.48|Automotive|5366.67|Sports|2744.65
+379|Vic|Myall|425-123-8533|Hoepker|4 Anthes Alley|Bellevue|WA|98008|6394499929666043|Games|4176.53|Shoes|9990.71|Beauty|5699.11
+380|Madelle|Frostick|386-362-9521|Bowman|4 Schlimgen Trail|Daytona Beach|FL|32123|56022137139029686|Jewelry|4342.76|Outdoors|3348.36|Electronics|5038.12
+381|Samara|Chuck|402-860-7932|Canary|0 Kingsford Junction|Omaha|NE|68134|589304115154934310|Electronics|5689.89|Shoes|5876.78|Clothing|2896.42
+382|Konstanze|Reedman|909-303-5958|Ridgeview|42685 Lyons Hill|San Bernardino|CA|92415|3575884187089137|Automotive|8680.93|Games|8898.27|Music|3394.98
+383|Georgena|Pottes|313-245-7842|Fulton|9 Erie Park|Detroit|MI|48258|676778204993608376|Health|3696.84|Garden|7842.23|Movies|1557.11
+384|Rafaello|Kingsland|360-841-5656|Sunbrook|496 Truax Point|Olympia|WA|98506|3563820401624881|Beauty|2135.84|Toys|6186.82|Baby|5340.93
+385|Rozalie|Fetherstonhaugh|713-987-9543|Chinook|381 Mifflin Court|Houston|TX|77245|4911997637653376|Home|7893.91|Automotive|1811.97|Sports|2447.80
+386|Justus|Ivashintsov|646-975-9059|Loomis|4626 Caliangt Circle|New York City|NY|10045|5413501425493670|Beauty|7116.68|Beauty|976.70|Health|7451.42
+387|Jannel|Sculpher|401-665-0272|Farwell|96 Haas Way|Providence|RI|02912|5602224070618772603|Toys|6494.95|Automotive|6467.09|Games|5022.14
+388|Cameron|MacPhee|781-161-5638|Schlimgen|661 Brentwood Lane|Boston|MA|02114|4041593862477|Tools|7223.46|Automotive|9245.10|Grocery|9593.16
+389|Hayden|Scutchings|941-235-2472|Cascade|203 Dayton Alley|Naples|FL|34102|201549382567074|Beauty|3813.34|Health|6599.87|Toys|2207.57
+390|Nobie|Blennerhassett|716-367-4082|Charing Cross|90 Ronald Regan Court|Buffalo|NY|14225|3588160776540334|Games|8855.14|Computers|5804.55|Jewelry|3694.30
+391|Kaitlynn|Francino|602-100-2954|Jenifer|07 Delladonna Center|Phoenix|AZ|85083|374283266655216|Automotive|8232.55|Electronics|6908.63|Sports|1275.10
+392|Barton|Eloy|214-285-3823|Garrison|1 Rowland Street|Denton|TX|76210|3584418258368655|Beauty|2955.54|Home|2860.76|Jewelry|63.90
+393|Donelle|Spours|972-949-4095|Mallard|4520 Little Fleur Place|Dallas|TX|75221|6304799856748386|Automotive|6247.13|Computers|3228.29|Outdoors|5569.15
+394|Paige|Dodshon|816-396-7268|David|65514 Thackeray Way|Kansas City|MO|64187|3534237376506694|Music|2997.02|Home|5059.04|Home|561.60
+395|Carolus|Pering|850-438-1501|Utah|3 Corry Center|Panama City|FL|32405|6706683117242690|Home|4817.76|Industrial|2904.88|Kids|5751.97
+396|Dare|Semken|850-859-0687|Utah|636 Melrose Crossing|Tallahassee|FL|32399|5108756395159665|Clothing|2423.69|Jewelry|7788.97|Grocery|4419.82
+397|Willi|Kinvan|253-511-8544|Fallview|557 Burrows Center|Tacoma|WA|98417|3537048404231719|Automotive|4143.14|Electronics|3683.36|Computers|9102.57
+398|Xylia|Jeune|408-330-5506|Jay|07619 Merry Park|Sunnyvale|CA|94089|3587950673233046|Movies|5252.11|Shoes|2450.55|Baby|1310.55
+399|Curt|D'Angeli|651-399-5932|Kensington|42397 Stuart Terrace|Minneapolis|MN|55417|3559625842013792|Music|3366.49|Baby|2695.66|Kids|4302.53
+400|Bernadine|Bougourd|205-257-3525|Elgar|47 Esker Avenue|Birmingham|AL|35295|5469496605304297|Electronics|3575.71|Tools|6113.23|Home|1033.92
+401|Milton|Gianiello|678-165-3499|South|8 Milwaukee Center|Atlanta|GA|30306|6385128012136397|Baby|3950.16|Kids|4077.86|Toys|6976.36
+402|Vance|MacKereth|412-415-1352|Service|327 Corscot Center|Pittsburgh|PA|15225|3575953043939759|Beauty|3355.57|Grocery|1740.48|Books|3714.52
+403|Carney|Wong|801-809-9575|Barby|6411 Roxbury Road|Salt Lake City|UT|84199|3534634834548211|Tools|7486.32|Shoes|7135.65|Computers|5425.89
+404|Olva|Kuhne|714-530-9377|Merrick|8379 Dottie Trail|Los Angeles|CA|90040|5641828590783617|Shoes|1433.61|Outdoors|1655.73|Computers|8074.29
+405|Pauletta|Constantine|408-229-3441|Continental|704 Anzinger Trail|San Jose|CA|95194|4175007183660386|Home|4494.30|Books|1279.06|Kids|6632.90
+406|Emelia|Ginnane|423-277-1904|Declaration|43 Declaration Circle|Chattanooga|TN|37450|3580042981261567|Sports|4393.92|Grocery|2616.86|Jewelry|1492.44
+407|Pate|Dye|251-107-3535|Sachtjen|87 John Wall Center|Mobile|AL|36610|560221161934464989|Tools|5097.13|Kids|5686.09|Industrial|8961.49
+408|Marney|Stanmore|540-633-3129|Warrior|865 Ruskin Terrace|Roanoke|VA|24040|5893562529540231215|Music|8345.41|Beauty|180.12|Books|2309.81
+409|Emelyne|McTerry|561-651-5688|Springview|1 Anhalt Point|West Palm Beach|FL|33416|3528096940629533|Shoes|3292.27|Games|3780.07|Baby|2268.66
+410|Petra|Glowacz|970-416-7392|Merry|41048 Dottie Drive|Grand Junction|CO|81505|5010127273346641|Health|4843.64|Automotive|525.77|Computers|6184.78
+411|Harris|Kiendl|937-716-5355|Redwing|9771 Toban Plaza|Dayton|OH|45414|5038770167785184771|Books|2698.86|Shoes|2552.50|Movies|7277.40
+412|Ernestine|Moralis|361-400-9867|Dexter|6 Harper Circle|Austin|TX|78744|3538185647706328|Computers|2584.98|Health|4592.57|Jewelry|5409.03
+413|Iago|Kreutzer|214-807-6474|Crowley|252 Thierer Center|Dallas|TX|75392|337941274582096|Books|199.80|Tools|7525.17|Shoes|2439.48
+414|Karoly|Kern|831-541-4367|Starling|32 Warbler Road|Santa Cruz|CA|95064|5568198110929671|Clothing|3283.17|Grocery|7950.39|Clothing|3374.60
+415|Gradeigh|Heister|816-685-7002|Utah|34349 Quincy Street|Independence|MO|64054|3534772052149203|Computers|909.45|Sports|628.39|Toys|8250.95
+416|Emile|Gyppes|225-448-6604|Sherman|19 Grasskamp Lane|Baton Rouge|LA|70826|5602215738387211|Tools|8501.72|Jewelry|3317.90|Games|5032.79
+417|Dale|Everil|251-587-3429|Carpenter|5 Pankratz Drive|Mobile|AL|36689|3577795927531642|Jewelry|9922.58|Games|7506.13|Kids|2377.54
+418|Nari|Tebbe|414-528-1598|2nd|3 Harper Court|Milwaukee|WI|53225|3565771103388192|Sports|7516.56|Computers|4885.75|Garden|443.23
+419|Bertrand|Petronis|773-616-6006|Laurel|202 Mallard Lane|Chicago|IL|60624|3588086823654770|Electronics|7691.69|Electronics|9403.41|Automotive|3488.11
+420|Joela|Willeson|862-138-6257|8th|60 Hooker Terrace|Newark|NJ|07188|3533732443786726|Home|9223.99|Games|7217.06|Clothing|5568.16
+421|Theodoric|Mollon|212-118-4095|Schurz|5586 Mccormick Alley|New York City|NY|10115|30118842216453|Movies|8707.40|Outdoors|2747.18|Movies|4735.06
+422|Lorena|Lochet|202-447-6213|Golf View|67905 Scott Center|Washington|DC|20337|3531817105601222|Industrial|8995.36|Home|6570.69|Books|1756.93
+423|Shelton|Lenz|202-492-9968|Troy|69314 Truax Plaza|Washington|DC|20575|3544019541245988|Electronics|873.94|Outdoors|6085.13|Tools|2156.90
+424|Jarid|Baumadier|201-734-1122|Iowa|443 Crest Line Drive|Jersey City|NJ|07305|3567772780757517|Grocery|5072.31|Baby|7587.81|Home|2827.38
+425|Donetta|Yvon|818-200-7325|Ridgeway|93603 Blaine Plaza|Pasadena|CA|91109|36269058757757|Music|4605.36|Movies|1210.40|Jewelry|4384.74
+426|Walden|Liell|702-836-9032|Arkansas|9 Anzinger Drive|Henderson|NV|89074|201917451829180|Computers|1637.53|Computers|6335.48|Games|776.71
+427|Xylina|Bruyet|313-158-8004|Pearson|49343 Rockefeller Parkway|Detroit|MI|48211|5602237568038243|Grocery|2046.85|Beauty|3711.40|Clothing|7655.54
+428|Aurlie|Ray|919-856-7104|Cordelia|4 Vidon Crossing|Raleigh|NC|27605|3548830070357028|Tools|2926.34|Books|2784.48|Automotive|1788.03
+429|Lynnette|Reubens|504-438-2546|Fair Oaks|8 Mifflin Street|Metairie|LA|70033|3530744803561337|Grocery|8510.28|Sports|7891.62|Garden|9384.29
+430|Dinah|Hindge|423-325-0651|Memorial|5671 Sunfield Point|Johnson City|TN|37605|30587708570486|Kids|3396.09|Grocery|4794.62|Outdoors|7110.41
+431|Sergeant|Court|785-366-5681|Maple Wood|23 Morning Park|Topeka|KS|66699|5020921582354744|Clothing|4810.97|Outdoors|375.15|Kids|1141.67
+432|Antonia|Woolston|212-672-8397|Artisan|1 Messerschmidt Parkway|New York City|NY|10165|5641826088617420|Shoes|4383.62|Books|1245.00|Electronics|6966.19
+433|Kelvin|Yannikov|517-637-8307|Delaware|2 East Drive|Kalamazoo|MI|49048|3560785955908126|Jewelry|2581.00|Kids|6709.29|Outdoors|9501.83
+434|Duky|Buggs|760-392-2382|Northland|243 Charing Cross Parkway|San Bernardino|CA|92415|5330709024220713|Grocery|5919.69|Sports|3745.94|Books|8119.24
+435|Alyssa|Hedworth|915-971-1041|Farmco|52784 Dapin Hill|El Paso|TX|79999|5556762253417069|Games|3791.02|Beauty|9162.85|Tools|4421.02
+436|Chancey|Foxten|217-762-5848|Meadow Ridge|3535 Corben Parkway|Springfield|IL|62705|4026058802352385|Grocery|9332.54|Home|8568.67|Health|2035.67
+437|Vonnie|Undy|216-377-6771|Washington|98 Fieldstone Junction|Cleveland|OH|44177|4041373528883931|Outdoors|2678.56|Electronics|8628.45|Kids|5934.87
+438|Casey|Vink|816-375-1968|Melrose|27 Straubel Junction|Kansas City|KS|66112|3532381484853101|Movies|332.72|Sports|7394.45|Tools|2880.77
+439|Constantia|Fettis|504-786-9672|Waubesa|2 Quincy Trail|New Orleans|LA|70187|630441882843709140|Baby|7371.29|Sports|615.52|Garden|1634.25
+440|Randal|Caccavale|607-887-5827|Kingsford|930 Corscot Circle|Elmira|NY|14905|3539354383299885|Clothing|8216.72|Garden|5235.38|Jewelry|3615.13
+441|Tripp|Oke|843-659-7525|Lighthouse Bay|06 Ridgeview Trail|Myrtle Beach|SC|29579|4041372352948|Baby|1897.96|Home|8742.36|Music|5323.56
+442|Mick|Ferrandez|810-363-7541|Straubel|4791 Elka Circle|Flint|MI|48505|3536943265634160|Clothing|9896.00|Sports|8916.28|Baby|3105.17
+443|Nikola|Gress|405-389-5292|Fair Oaks|3572 Hagan Plaza|Oklahoma City|OK|73104|3547709582473609|Beauty|5324.68|Industrial|9231.69|Jewelry|3828.74
+444|Ernestine|Swannick|903-167-3510|Evergreen|5 Cascade Hill|Tyler|TX|75710|6304071494504617472|Books|1657.41|Tools|2536.25|Computers|6276.13
+445|Rice|Pavlasek|202-139-6600|Monica|0 Pine View Avenue|Washington|DC|20022|5610414171966926|Home|2994.38|Industrial|5262.78|Health|9555.69
+446|Gwendolyn|Martino|516-423-8401|Thierer|40992 David Court|New Hyde Park|NY|11044|3537792840554313|Electronics|8972.98|Automotive|1855.74|Automotive|7721.37
+447|Cris|Mc Carroll|916-647-2602|Sherman|80829 Tennessee Trail|Sacramento|CA|95828|3577313837887128|Automotive|6166.26|Baby|1228.10|Toys|344.85
+448|Hale|Gulc|601-377-6724|Oxford|9145 Westend Circle|Jackson|MS|39236|3533294265345669|Books|6382.83|Outdoors|369.85|Baby|7108.74
+449|Maxy|Gratland|202-929-2321|Crowley|35 Victoria Way|Washington|DC|20546|675903660984922524|Outdoors|3390.80|Music|9803.43|Tools|8568.33
+450|Kasper|Vickar|617-892-3599|Algoma|2191 Parkside Center|Boston|MA|02114|6334483862230424|Outdoors|2019.71|Baby|9848.06|Grocery|4043.31
+451|Sid|Graine|907-529-1977|Jana|3 Sauthoff Drive|Anchorage|AK|99517|3538112240723088|Outdoors|9925.68|Sports|4573.86|Industrial|3325.32
+452|Arte|Ruler|612-487-1100|Erie|491 Monterey Drive|Minneapolis|MN|55436|4258210859754125|Baby|7025.43|Shoes|7308.33|Toys|8590.52
+453|Archibold|Keogh|267-717-0146|Nevada|0 Mcbride Parkway|Levittown|PA|19058|3567110542958554|Music|5007.92|Shoes|1880.27|Jewelry|9061.89
+454|Merrili|Ruos|757-654-4056|Lighthouse Bay|80805 Cherokee Road|Suffolk|VA|23436|337941085649779|Tools|9793.22|Industrial|9671.99|Toys|271.11
+455|Jard|Cogdon|915-588-6472|Reinke|8 Anhalt Drive|El Paso|TX|79911|3577851660059752|Outdoors|350.53|Outdoors|3855.50|Baby|9318.33
+456|Gare|Bracher|336-545-5523|Spohn|26821 Arizona Way|High Point|NC|27264|6331109244507253|Tools|3419.70|Computers|8673.92|Toys|2761.60
+457|Jaimie|Tieman|410-275-1363|Logan|01339 Novick Alley|Baltimore|MD|21282|30171404837828|Kids|6884.58|Health|1416.23|Garden|4526.69
+458|Halsy|Tubb|864-975-3378|Melvin|27584 Canary Plaza|Anderson|SC|29625|5602222991443327|Games|9896.72|Beauty|6282.19|Sports|230.90
+459|Odie|Huot|626-816-8467|Burrows|15 Troy Road|Pasadena|CA|91186|5142130112934834|Beauty|1638.09|Jewelry|8666.69|Clothing|527.97
+460|Forrest|McDowall|917-967-6705|Glendale|765 Old Gate Center|Flushing|NY|11388|5602220727030132922|Books|4714.68|Clothing|956.78|Tools|8082.15
+461|Leigh|Sissel|941-749-0860|Dapin|1144 Lakewood Gardens Parkway|Port Charlotte|FL|33954|3536065970710364|Electronics|9895.41|Baby|2979.82|Grocery|4004.30
+462|Tracie|Ebbotts|813-578-7054|Magdeline|5 Holy Cross Center|Tampa|FL|33620|4911479758153007|Toys|389.06|Music|5961.00|Industrial|198.27
+463|Allys|Ayton|571-160-8202|Pepper Wood|65 Memorial Lane|Ashburn|VA|22093|30259589686357|Jewelry|9221.69|Computers|6123.43|Grocery|2907.67
+464|Godwin|Nevison|208-955-5807|Scoville|84 Hoepker Plaza|Pocatello|ID|83206|3536369435998345|Music|7028.85|Health|8033.89|Garden|1296.09
+465|Lexy|Oxley|347-891-5758|Kenwood|322 4th Parkway|Brooklyn|NY|11241|3567631775022834|Electronics|5528.96|Tools|2334.17|Movies|1085.83
+466|Liesa|Tibbs|816-268-1781|Superior|5651 Jackson Terrace|Lees Summit|MO|64082|372301576182556|Automotive|7430.94|Industrial|8892.89|Shoes|8683.86
+467|Glenna|Stothert|603-329-7794|School|865 Autumn Leaf Point|Manchester|NH|03105|3558855795549929|Tools|2227.30|Garden|7162.65|Home|6028.00
+468|Suzette|MacAlinden|260-711-1970|Duke|52 Ridgeview Point|Fort Wayne|IN|46867|3569962173313725|Outdoors|4933.08|Home|8566.93|Home|1242.57
+469|Alexi|Basilotta|281-815-0406|International|575 Spaight Parkway|Houston|TX|77020|3575364923475387|Automotive|2048.44|Games|1896.09|Home|3435.80
+470|Geoffry|Vernon|816-466-4979|Corry|8274 Graceland Way|Kansas City|MO|64144|3562517071861550|Industrial|454.92|Baby|8439.71|Industrial|1067.41
+471|Herrick|Raynor|213-954-2399|Nancy|7 Buena Vista Pass|Los Angeles|CA|90045|3530101362951641|Garden|1341.45|Electronics|4300.61|Books|9947.33
+472|Jonas|Winterson|312-458-4925|Buhler|3 Mendota Park|Chicago|IL|60663|5007662545635350|Automotive|1617.31|Health|3904.43|Electronics|4651.45
+473|Elvina|Dunbar|212-474-8012|Badeau|5085 Pawling Court|New York City|NY|10115|4695993007922949|Toys|8554.93|Books|4413.01|Tools|506.22
+474|Vanna|Pryke|202-625-0605|Waywood|6 Valley Edge Avenue|Washington|DC|20051|3550758829879346|Toys|472.46|Home|1448.28|Computers|3742.25
+475|Lynnett|Bancroft|251-285-1211|Rigney|2807 Milwaukee Hill|Mobile|AL|36689|3579236020119546|Clothing|5062.86|Automotive|1389.33|Movies|7842.50
+476|Pete|Trowsdall|509-151-4224|Lotheville|415 Oxford Street|Yakima|WA|98907|5010124360133016|Automotive|2335.45|Kids|4964.69|Movies|8925.04
+477|Giovanna|Stiegar|217-277-9090|Lyons|18942 Warrior Park|Champaign|IL|61825|6771315401985755|Clothing|519.89|Industrial|494.99|Jewelry|3535.56
+478|Lurline|Lyons|505-183-2745|Rowland|11 Vera Pass|Albuquerque|NM|87180|374252961299455|Shoes|436.91|Shoes|7048.76|Kids|7327.26
+479|Eugenio|Handley|915-899-2592|Arapahoe|88 Nancy Way|El Paso|TX|79999|30364657481143|Computers|7522.15|Shoes|6598.11|Grocery|3179.79
+480|Papageno|Haslam|215-589-0442|Monument|19176 Dayton Avenue|Philadelphia|PA|19104|344574223689596|Health|4154.64|Music|5922.55|Health|3632.04
+481|Magda|Sagrott|916-347-9103|Charing Cross|88945 Raven Trail|Sacramento|CA|94263|5602229931393921944|Shoes|2575.86|Music|8227.72|Sports|7508.84
+482|Lowell|Loding|801-984-4315|Milwaukee|228 Mockingbird Way|Provo|UT|84605|3579296547281260|Toys|1184.99|Toys|9712.51|Computers|6236.34
+483|Luca|Goldine|513-643-2893|Cody|30 Little Fleur Alley|Cincinnati|OH|45233|3564518650411245|Health|9116.24|Books|8985.45|Kids|721.33
+484|Bidget|Brownlow|360-323-5082|Onsgard|5 Prairie Rose Alley|Seattle|WA|98104|633110759167623061|Industrial|8833.25|Computers|4110.64|Clothing|5517.06
+485|Kori|Bineham|305-998-2911|Hagan|58 Haas Court|Miami|FL|33180|4905013376142197|Grocery|4659.51|Games|2200.24|Tools|5508.98
+486|Cal|Ielden|702-455-2017|Sachtjen|030 Dryden Park|Las Vegas|NV|89135|3554448535829605|Industrial|8760.29|Grocery|1353.60|Grocery|3168.01
+487|Kelley|Carlisso|203-296-1094|Sommers|9 Northridge Avenue|New Haven|CT|06510|502086811675875266|Garden|4468.33|Grocery|1984.56|Music|9626.13
+488|Delora|Tripett|754-776-5605|Artisan|2178 Mayer Alley|Fort Lauderdale|FL|33355|30134454216715|Games|8335.13|Shoes|3411.22|Baby|9707.27
+489|Mohandis|Minci|918-305-1119|Pawling|327 Shelley Lane|Tulsa|OK|74126|56022169924796591|Health|2088.11|Music|8098.43|Shoes|1511.15
+490|Camila|Weitzel|718-657-2160|Corry|834 Charing Cross Park|Jamaica|NY|11447|201705663211937|Games|4150.68|Shoes|4875.75|Baby|9390.85
+491|Juana|Lambarton|757-191-7060|Vernon|97 Jay Crossing|Hampton|VA|23668|36771463256077|Music|1547.07|Jewelry|6682.46|Movies|5260.33
+492|Bili|Simic|830-813-1630|Florence|204 Vera Center|San Antonio|TX|78255|3567749949652813|Electronics|5623.52|Sports|3282.14|Games|6764.85
+493|Steve|Corter|310-353-5366|Portage|282 Farmco Drive|Palo Alto|CA|94302|201507257400383|Electronics|4962.08|Outdoors|9033.66|Computers|5442.63
+494|Buiron|Cleiment|281-917-3446|Sage|6823 Oak Valley Way|Humble|TX|77346|560222087113272365|Home|7412.61|Outdoors|3011.30|Movies|7194.50
+495|Chip|Tilsley|903-831-5005|Kinsman|77815 Grayhawk Circle|Tyler|TX|75710|5602259939563725|Health|3927.34|Baby|4583.32|Grocery|6406.32
+496|Trevor|Sherrott|415-464-9386|Luster|4480 Hermina Circle|San Francisco|CA|94159|349308746581625|Home|950.34|Automotive|8053.49|Outdoors|6754.76
+497|Micky|Dewdney|205-836-4710|Steensland|601 Buena Vista Way|Birmingham|AL|35236|6304168148330074|Automotive|2012.07|Toys|240.83|Kids|3082.79
+498|Ardis|Harpham|323-922-7282|West|27237 Steensland Pass|Burbank|CA|91505|3562509390303273|Automotive|3497.17|Computers|8298.45|Toys|1248.14
+499|Carrissa|Greatland|801-288-1692|Kropf|95 Hoffman Crossing|Salt Lake City|UT|84152|589302942132123951|Games|1523.49|Tools|1705.65|Jewelry|4906.45
+500|Napoleon|Feragh|813-641-2504|Rockefeller|33772 Larry Point|Clearwater|FL|33758|3579655652166485|Computers|1556.71|Beauty|6557.38|Tools|4575.44
+501|Timi|Cleaton|208-141-9696|Carberry|8191 Kensington Alley|Boise|ID|83705|0604098169069327471|Automotive|8646.86|Beauty|8570.08|Beauty|9907.05
+502|Silvain|Alejandri|217-713-8600|Lakewood Gardens|8 Sage Way|Springfield|IL|62723|3560611500614078|Garden|3757.80|Electronics|983.61|Health|6261.90
+503|Sheff|Squibb|832-453-5283|Lyons|93 Waxwing Drive|Katy|TX|77493|3570623864381713|Jewelry|9271.60|Jewelry|9870.10|Games|4275.82
+504|Denys|Gauntlett|816-890-9346|Cascade|420 Scott Alley|Kansas City|MO|64153|4844002576034449|Books|2315.21|Health|5709.46|Computers|2065.05
+505|Jennilee|Kent|203-311-3745|7th|79 Prairie Rose Circle|New Haven|CT|06510|6304938775763167685|Automotive|4544.22|Beauty|7502.02|Home|9864.08
+506|Rolf|Harcarse|513-765-7955|Summer Ridge|51 Oak Point|Cincinnati|OH|45233|6384433568658138|Computers|8560.89|Grocery|5290.34|Music|3522.83
+507|Syd|Burnhard|212-348-4679|Warbler|23 Calypso Road|New York City|NY|10125|6334401309286718|Games|4140.60|Shoes|4016.89|Industrial|8352.29
+508|Meredith|Locarno|540-362-3418|Thackeray|7 Kings Junction|Roanoke|VA|24024|5048370519977839|Home|1004.38|Games|1973.11|Sports|173.36
+509|Georgie|Keyhoe|540-543-0915|Heath|1773 Reinke Terrace|Roanoke|VA|24048|6767397995519606271|Outdoors|585.18|Outdoors|1135.20|Jewelry|4991.16
+510|Oona|Vaneschi|757-105-0360|Dunning|57 Kedzie Alley|Herndon|VA|22070|3567569290794455|Beauty|7215.38|Health|8537.22|Industrial|9805.30
+511|Jessika|Brecknall|520-410-7387|Fulton|2839 Sundown Center|Tucson|AZ|85754|5430919955918370|Industrial|4515.54|Sports|6941.61|Outdoors|6400.45
+512|Donia|Sandells|202-105-1483|Elgar|6152 Mcguire Hill|Washington|DC|20029|5100133888485742|Kids|6649.39|Electronics|4569.21|Kids|1514.07
+513|Ethel|Macci|321-962-4913|Schmedeman|05030 7th Avenue|Melbourne|FL|32919|3571347207102466|Home|8561.17|Clothing|1365.27|Tools|1711.36
+514|Meagan|Rigg|202-381-2085|Eagan|6 Susan Pass|Washington|DC|20540|5595447120872497|Computers|6650.18|Garden|5050.31|Shoes|2847.98
+515|Susana|Gladhill|316-282-1078|Stone Corner|37 Cambridge Parkway|Wichita|KS|67220|3569832965578027|Jewelry|2810.46|Electronics|2106.92|Computers|5862.81
+516|Tori|Klezmski|907-973-8947|Sauthoff|59351 Stone Corner Circle|Anchorage|AK|99599|3579711469458795|Automotive|6899.71|Toys|3882.77|Beauty|6634.77
+517|Mirabella|Arson|213-835-8264|Dorton|087 Hazelcrest Road|Los Angeles|CA|90189|3585192461048672|Sports|9626.46|Movies|1449.85|Automotive|879.82
+518|Livy|Possa|757-921-0311|Graedel|381 Lindbergh Point|Suffolk|VA|23436|493602286037285404|Shoes|2230.61|Home|7676.08|Home|974.18
+519|Thaddus|Ison|313-233-5630|Bluestem|6581 Dexter Junction|Detroit|MI|48232|201985275249331|Beauty|1378.71|Baby|9792.77|Music|1078.70
+520|Scarface|Mushett|843-581-7060|Bultman|78 Milwaukee Court|Charleston|SC|29403|6334124456334884774|Sports|9992.58|Clothing|3488.10|Grocery|4286.22
+521|Kimbell|Bolsover|205-386-9225|Buena Vista|52597 Washington Terrace|Birmingham|AL|35205|5002358884432328|Baby|1158.56|Tools|9269.20|Garden|6672.12
+522|Roseline|Yude|202-844-1320|Cordelia|5 Hayes Plaza|Washington|DC|20005|3542988664599573|Home|2200.68|Games|4032.76|Jewelry|4177.00
+523|Daria|Waycot|305-421-4167|Lakewood Gardens|5461 New Castle Way|Naples|FL|33961|5576880554557833|Toys|2775.71|Movies|1587.52|Kids|3834.35
+524|Rea|Feast|202-731-6396|Starling|7 Truax Drive|Washington|DC|20099|372301464524133|Books|4547.26|Jewelry|9179.95|Computers|7304.02
+525|Ailey|Tregoning|832-552-4655|Upham|5661 Judy Way|Houston|TX|77266|3541359352098545|Toys|1099.78|Home|8543.07|Computers|4213.85
+526|Malynda|Bowgen|763-591-5982|Pearson|77973 Pepper Wood Street|Monticello|MN|55565|6767249922527606937|Automotive|4823.50|Automotive|2479.30|Industrial|5720.53
+527|Brittni|Wainwright|614-568-7226|Coleman|38233 Goodland Street|Columbus|OH|43231|3529576788603186|Health|2040.98|Home|2451.96|Clothing|5427.51
+528|Claiborn|Breens|714-157-6359|Debra|121 Emmet Hill|Orange|CA|92867|5602249317503724|Jewelry|6978.72|Shoes|4572.93|Beauty|2176.58
+529|Sonni|Disbury|808-685-0872|Vidon|9 North Hill|Honolulu|HI|96805|5893289728269711|Sports|9201.90|Kids|3565.67|Electronics|9713.63
+530|Bertine|Tuley|336-844-8253|Knutson|8179 Bellgrove Junction|High Point|NC|27264|30458025054317|Kids|450.47|Jewelry|9914.94|Clothing|981.08
+531|Micky|Mathiasen|303-302-4772|Prairie Rose|575 Monterey Alley|Aurora|CO|80045|30504097014406|Kids|4743.79|Toys|2523.70|Games|227.74
+532|Ced|Carbin|708-297-7409|Oxford|6 Paget Court|Schaumburg|IL|60193|374283001796911|Jewelry|5426.19|Games|8157.73|Kids|186.24
+533|Farr|Brumwell|215-949-6350|Almo|0150 Bluejay Center|Philadelphia|PA|19172|201574739638410|Health|4291.42|Music|1467.11|Industrial|1250.17
+534|Wendie|Coggins|801-615-5025|Elgar|5 Little Fleur Road|Salt Lake City|UT|84115|3541940554689114|Clothing|7841.61|Industrial|9649.14|Movies|6354.18
+535|Adams|Yacob|253-347-5946|Village Green|9955 Stang Hill|Olympia|WA|98516|6399157465764813|Shoes|102.71|Computers|3881.14|Garden|9756.88
+536|Walton|Cranmor|808-654-6503|Helena|5 Esch Trail|Honolulu|HI|96820|3566286217594931|Automotive|6580.92|Outdoors|2003.17|Home|3302.17
+537|Lucius|Odell|225-674-9206|Drewry|35892 Monica Pass|Baton Rouge|LA|70894|30367789403034|Automotive|3989.04|Automotive|5623.79|Baby|1817.63
+538|Jeremiah|Willmot|407-936-4745|Iowa|7 Ronald Regan Parkway|Orlando|FL|32825|6333180124772778|Garden|8023.30|Computers|2530.31|Kids|4776.93
+539|Odette|Imore|502-831-5616|Ludington|11075 Waxwing Pass|Frankfort|KY|40618|374288308068237|Industrial|6961.67|Beauty|4414.07|Clothing|5414.76
+540|Sadella|Matteau|515-476-7309|Schurz|4 Birchwood Lane|Des Moines|IA|50369|3549669923815207|Movies|336.92|Computers|1562.87|Grocery|6788.90
+541|Jervis|Mandry|804-804-7787|Towne|259 Summit Parkway|Richmond|VA|23260|3556808941596551|Sports|55.45|Clothing|3745.65|Outdoors|8839.42
+542|Clark|Polycote|505-616-1583|Hollow Ridge|04 Karstens Road|Albuquerque|NM|87105|5549326253675140|Beauty|5406.77|Home|1390.43|Beauty|3858.60
+543|Patricio|Antonsson|561-524-3682|Northland|69 Vera Terrace|West Palm Beach|FL|33421|3583603189042104|Home|8368.13|Electronics|1221.84|Books|3463.73
+544|Alanah|de Grey|518-202-9389|Green|61 Anniversary Trail|Albany|NY|12232|3554647852717265|Books|8693.36|Toys|2424.27|Tools|9388.38
+545|Bili|Faussett|806-561-6096|Beilfuss|2656 Westend Street|Amarillo|TX|79118|5146790607325685|Computers|1029.36|Shoes|3378.00|Grocery|1292.56
+546|Clim|Lawrance|678-221-0695|East|15597 Anderson Parkway|Lawrenceville|GA|30245|3528331502552215|Beauty|5424.69|Books|7277.72|Tools|5711.90
+547|Kendal|Berryman|864-854-6520|Anthes|6610 Hauk Circle|Anderson|SC|29625|6304161850443565|Music|8093.30|Sports|4847.14|Toys|382.27
+548|Dal|Tertre|304-611-6357|Onsgard|55204 Hudson Center|Huntington|WV|25775|676711252863244707|Books|983.53|Electronics|9680.67|Electronics|1246.46
+549|Helen-elizabeth|Twist|763-884-1705|Nobel|0903 Knutson Park|Minneapolis|MN|55448|30278783524982|Baby|5548.25|Beauty|4855.94|Industrial|8587.83
+550|Irma|Cossentine|508-113-2348|Pleasure|1 Truax Trail|Brockton|MA|02405|3556699883036130|Home|4570.99|Toys|9501.98|Home|9069.22
+551|Maryann|Butts|615-659-8675|Scoville|9 Dixon Way|Nashville|TN|37215|3579390371441072|Toys|2794.06|Health|9768.16|Computers|9855.48
+552|Allard|Hattoe|202-667-8937|Esker|781 Toban Court|Washington|DC|20575|3538405894980917|Home|6711.84|Industrial|2088.62|Jewelry|8356.48
+553|Maximilianus|Weld|501-111-0765|Banding|72111 Hanover Terrace|Little Rock|AR|72209|3547478511251318|Baby|5518.28|Electronics|1038.00|Outdoors|2744.88
+554|Rodolfo|Tackes|774-819-6653|Becker|93 Armistice Avenue|Waltham|MA|02453|3559841707702631|Sports|2231.04|Music|7220.78|Sports|4970.48
+555|Odilia|Fidell|817-598-1613|Morrow|8500 Lindbergh Crossing|Arlington|TX|76016|3587422199196677|Movies|8577.87|Grocery|9714.77|Shoes|3481.02
+556|Anitra|Joannet|704-868-9579|Hoffman|92985 Annamark Place|Charlotte|NC|28278|3528280573692931|Industrial|7864.17|Garden|9967.75|Music|6574.32
+557|Kameko|McKoy|832-790-7758|Express|8 Northfield Junction|Spring|TX|77386|4844198705468795|Home|4184.00|Baby|455.00|Outdoors|5953.28
+558|Konstantine|Gosnay|716-559-7643|Thierer|380 Graceland Drive|Buffalo|NY|14205|4913973780619504|Health|9202.85|Industrial|2748.88|Industrial|4829.39
+559|Bob|Goldhill|815-600-8276|Mallory|0 Eagan Road|Rockford|IL|61105|341005245811523|Computers|8411.47|Garden|9879.59|Movies|2063.53
+560|Findlay|Chinery|325-691-0310|Crest Line|5 Elka Parkway|Abilene|TX|79699|5007669647204829|Music|4895.01|Grocery|2681.95|Kids|2455.92
+561|Adrea|Mattersley|651-488-2961|Harbort|7751 Gulseth Crossing|Saint Paul|MN|55146|5007662096194765|Outdoors|4760.08|Kids|91.73|Beauty|9284.07
+562|Jan|Moutray Read|574-254-5545|Kropf|907 Macpherson Avenue|South Bend|IN|46699|30452030747403|Industrial|2443.46|Books|9983.06|Computers|3449.45
+563|Brandy|Tremmil|915-177-7056|Thierer|7 Lyons Court|El Paso|TX|88563|3547911518252061|Tools|4609.62|Toys|7793.10|Computers|1250.45
+564|Huntley|Menary|818-367-0749|Victoria|7 Logan Center|Van Nuys|CA|91406|30551414592747|Home|4261.52|Home|6557.65|Tools|5282.39
+565|Kellsie|Newall|915-608-3424|Caliangt|08 Summer Ridge Park|El Paso|TX|79916|4041593819681286|Electronics|3782.61|Music|5998.75|Books|6128.47
+566|Enrika|Broggio|915-738-1286|Sycamore|30205 Hermina Court|El Paso|TX|79934|3558127460888267|Clothing|6107.27|Jewelry|4562.56|Health|2141.38
+567|Winifred|Andreazzi|813-959-4240|Vermont|45 Ruskin Point|Tampa|FL|33673|6762037795316923|Books|4568.22|Baby|4978.30|Health|4993.00
+568|Jamill|Partner|713-799-0373|Elmside|2402 Blue Bill Park Center|Houston|TX|77010|670618181583839495|Kids|7111.82|Clothing|215.45|Computers|59.07
+569|Elinor|Linnard|919-415-4417|Gulseth|52 Pankratz Alley|Raleigh|NC|27626|5602253249616802|Shoes|1894.88|Movies|4202.16|Clothing|2014.65
+570|Kristin|Newborn|562-831-2778|Messerschmidt|2250 Warner Terrace|Anaheim|CA|92805|5102019338615731|Automotive|787.09|Outdoors|407.86|Automotive|3151.20
+571|Jolene|Frearson|517-247-4395|Crest Line|5 4th Way|Lansing|MI|48919|5134912995794058|Movies|266.38|Home|1900.65|Health|3708.50
+572|Lynsey|Lindholm|917-540-4449|Spohn|1281 Harbort Lane|New York City|NY|10110|3580435092058338|Health|9343.32|Grocery|7049.53|Garden|7917.87
+573|Reinhard|Chetwind|520-688-5395|Armistice|7 Mosinee Road|Prescott|AZ|86305|6304939579829481|Industrial|3219.60|Sports|3894.95|Shoes|8105.18
+574|Neill|Broadway|907-465-4944|Montana|9 Cottonwood Hill|Anchorage|AK|99522|6333801596730128912|Electronics|8659.83|Games|9789.13|Books|8202.34
+575|Guenevere|Bannerman|832-926-1407|Scofield|0 Coolidge Pass|Houston|TX|77075|5495432356865457|Garden|2332.76|Grocery|2125.09|Home|338.33
+576|Dorette|McReidy|916-437-2699|Towne|2727 Holy Cross Avenue|Sacramento|CA|94291|3589967405044549|Automotive|4839.82|Tools|3518.28|Industrial|3698.83
+577|Edie|Ropert|312-694-9590|Farragut|4653 Hagan Way|Chicago|IL|60652|4917959415454231|Clothing|3736.00|Automotive|5125.86|Movies|6577.98
+578|Evelin|Bowick|602-292-7683|Jenifer|18 Debs Road|Phoenix|AZ|85072|502026099616077571|Industrial|470.86|Sports|6180.64|Garden|5115.35
+579|Devondra|Sanchis|202-865-7707|Dottie|8156 Porter Park|Washington|DC|20575|3564628983418534|Outdoors|6802.78|Baby|4593.87|Baby|7290.92
+580|Hamish|Ahmad|818-106-4188|Mcguire|134 Utah Junction|Brea|CA|92822|3576592915641090|Clothing|5596.57|Tools|2250.57|Books|4012.33
+581|Duky|Pawel|520-415-8106|Lakeland|09892 Linden Avenue|Tucson|AZ|85732|6394206366497406|Beauty|9167.18|Beauty|1884.43|Sports|5415.07
+582|Leese|Jereatt|712-102-8945|Hallows|48 Oriole Street|Omaha|NE|68134|3582099383282342|Home|8024.83|Garden|8002.42|Music|9461.88
+583|Kelly|Sapwell|214-314-2335|Stone Corner|3 Elka Point|Dallas|TX|75367|5100142778307411|Industrial|8424.19|Kids|27.91|Shoes|9982.05
+584|Glyn|Giroldi|509-943-1851|Vermont|9554 Ronald Regan Road|Spokane|WA|99252|4041371203733512|Toys|7146.30|Kids|3756.60|Computers|5616.71
+585|Cristiano|Tolhurst|334-529-7372|Ruskin|46 Grayhawk Plaza|Montgomery|AL|36134|3584654028829622|Shoes|2952.32|Toys|1676.20|Computers|4188.96
+586|Gayelord|Dearman|205-779-2384|Ridgeview|6 Golf Course Place|Birmingham|AL|35231|3570967682164573|Games|8007.03|Electronics|8600.04|Industrial|1538.38
+587|Elsinore|Jakubski|202-687-9705|La Follette|8714 Mesta Hill|Washington|DC|20319|374283144587771|Shoes|6561.84|Industrial|6766.79|Outdoors|4181.86
+588|Ethelbert|Cordingly|540-188-1454|Larry|3 Farragut Avenue|Roanoke|VA|24040|5007665601292123|Jewelry|7080.30|Books|7052.89|Electronics|3257.68
+589|Gwenore|Espinho|915-222-9111|Eastwood|7098 Ridgeview Lane|El Paso|TX|79905|4913853619284714|Grocery|1938.91|Computers|5751.78|Electronics|9605.94
+590|Monica|Gioan|971-434-7704|Crownhardt|65375 Elmside Avenue|Portland|OR|97255|4026401345073276|Clothing|8348.30|Outdoors|1391.79|Grocery|1576.49
+591|Isidor|Wicks|713-976-2255|Grasskamp|15 Toban Point|Houston|TX|77035|5610461747703761022|Games|6751.74|Automotive|8729.02|Kids|1268.92
+592|Lydia|Kinchin|717-647-1806|Independence|35 Shelley Court|Harrisburg|PA|17121|3559033325254381|Movies|5417.20|Electronics|4867.65|Automotive|6912.45
+593|Ambros|Henriet|843-757-2878|Ridgeway|870 International Way|Charleston|SC|29424|337941629339127|Health|9695.03|Baby|9790.00|Games|7694.20
+594|Brandtr|Breinl|818-539-6969|Shoshone|78 Katie Point|Burbank|CA|91505|3564413512196244|Movies|1545.44|Jewelry|8954.27|Shoes|390.67
+595|Magdalen|Orteu|949-835-7685|Hanson|0 Waywood Terrace|Anaheim|CA|92805|5109413837513864|Home|113.36|Automotive|73.15|Electronics|6852.51
+596|Annadiane|Myhan|408-525-7132|Forster|6 Esker Circle|San Jose|CA|95173|3549853078721325|Beauty|7185.85|Kids|2553.22|Tools|3257.67
+597|Vicki|Maron|713-161-5774|Ramsey|06991 Fallview Crossing|Houston|TX|77271|4017955164412775|Home|6662.11|Beauty|3832.65|Jewelry|3525.86
+598|Erastus|Norledge|303-395-6139|Kim|16228 Melvin Court|Aurora|CO|80015|4026251195220513|Games|7560.45|Garden|5317.81|Home|2904.29
+599|Carilyn|Durrance|706-659-2640|Barnett|73 Westend Hill|Athens|GA|30605|6380293849437429|Home|9784.58|Movies|9179.57|Music|5869.71
+600|Sumner|Bettinson|303-842-9899|Oxford|04532 Nova Way|Denver|CO|80235|3549239064392232|Industrial|9934.99|Grocery|3261.12|Clothing|11.75
+601|Peter|Bowlesworth|317-492-7169|Sugar|92 Lindbergh Lane|Indianapolis|IN|46278|3582710925170742|Computers|8395.11|Movies|7436.19|Music|7390.47
+602|Rivkah|Orehead|601-556-6955|Kim|72 Fieldstone Place|Jackson|MS|39282|3552921534931079|Tools|2164.63|Health|8242.11|Clothing|9670.21
+603|Tamarah|Fouracres|919-970-8647|Surrey|40429 Nancy Point|Durham|NC|27710|56022283037746482|Movies|5794.56|Health|1130.56|Garden|2307.47
+604|Nappie|Bisset|202-588-0378|Cordelia|36 Hollow Ridge Pass|Washington|DC|20215|3586040444387452|Garden|6628.03|Outdoors|868.13|Sports|5392.84
+605|Ellswerth|Hankins|501-251-2642|Fulton|21746 School Circle|Little Rock|AR|72222|3532323740289670|Clothing|7678.86|Movies|6110.59|Grocery|8850.49
+606|Beck|Moffet|330-360-4562|Del Mar|29182 Manley Court|Youngstown|OH|44505|58933306796159177|Books|2192.64|Computers|3172.26|Electronics|5536.51
+607|Lucila|Cassella|727-919-2363|Grasskamp|1 Spaight Alley|Clearwater|FL|34615|3580205351317042|Movies|79.85|Home|7310.62|Kids|1304.70
+608|Barbi|Mogie|913-734-6978|South|913 Golf Course Point|Shawnee Mission|KS|66225|201659684386485|Movies|6216.67|Electronics|2735.06|Sports|2864.91
+609|Berty|Ickowics|267-380-0905|Esker|7 Talisman Street|Philadelphia|PA|19136|5108751189039595|Movies|2574.90|Electronics|9942.33|Automotive|4338.01
+610|Felizio|Foker|304-947-3998|Schmedeman|3529 Bashford Street|Charleston|WV|25331|3572837190639994|Toys|4279.84|Outdoors|9938.76|Computers|7374.31
+611|Nester|Gauvin|860-516-8405|Northwestern|46 Shelley Pass|Hartford|CT|06145|3555607958371747|Industrial|8297.89|Industrial|5800.79|Outdoors|5140.87
+612|Derry|Purches|785-144-4606|Ryan|0940 Cherokee Drive|Topeka|KS|66617|201673351744454|Automotive|5092.34|Kids|9729.59|Books|1718.29
+613|Ignaz|Digan|509-110-8143|Bobwhite|27 Sycamore Trail|Spokane|WA|99260|3567052930541487|Kids|4070.38|Games|5715.55|Grocery|6481.54
+614|Neysa|Stollenbeck|918-250-3741|Rowland|63 4th Avenue|Tulsa|OK|74170|3552538632366642|Clothing|5616.05|Computers|4705.14|Books|4411.79
+615|Lucilia|Shalcras|304-904-6288|Macpherson|4502 Waubesa Alley|Charleston|WV|25326|5002357672498103|Outdoors|9668.72|Shoes|2092.87|Books|1088.76
+616|Des|Raitie|804-867-7508|Twin Pines|61652 Hauk Parkway|Richmond|VA|23285|3572959628208661|Tools|6643.93|Baby|100.87|Tools|7768.55
+617|Rosita|Mityakov|302-424-8620|Goodland|9285 Morrow Parkway|Newark|DE|19725|6767933067281495|Sports|6634.88|Toys|6445.68|Toys|3975.61
+618|Leoine|Laister|763-486-9055|Westerfield|7176 Waywood Avenue|Loretto|MN|55598|337941810310507|Outdoors|9991.97|Computers|2470.99|Toys|8203.75
+619|Charmine|Broxup|702-559-6916|Dorton|5921 Red Cloud Park|Las Vegas|NV|89130|670950062558231148|Beauty|5614.10|Home|2677.57|Books|3034.82
+620|Connor|Rampton|310-955-2621|Susan|412 Carberry Alley|Garden Grove|CA|92844|30028026052634|Automotive|8631.65|Automotive|3277.82|Tools|1773.46
+621|Kelsey|Blas|626-403-7347|Brown|3788 Dwight Alley|Pasadena|CA|91125|67620470683477339|Outdoors|7014.40|Sports|545.50|Outdoors|9117.42
+622|Almeta|Grabb|901-537-0931|Glacier Hill|65 Kingsford Trail|Memphis|TN|38181|4905833619425170327|Automotive|9367.63|Automotive|3278.34|Games|7612.56
+623|Alexis|Cobby|713-897-2344|Northland|62 Johnson Terrace|Houston|TX|77288|3580146550006277|Movies|9176.34|Kids|878.73|Games|769.79
+624|Lucien|Hanhart|760-377-6841|Schurz|673 Meadow Vale Park|San Bernardino|CA|92415|5100145400869823|Outdoors|2896.57|Games|5095.76|Games|6973.54
+625|Jeno|Crawford|405-688-3640|Sutherland|3826 Lotheville Parkway|Oklahoma City|OK|73114|3571047982166658|Toys|3322.17|Industrial|8778.67|Computers|9273.06
+626|Francis|Hibling|251-584-2198|Nelson|1931 Waxwing Place|Mobile|AL|36622|503801954534912094|Baby|8496.83|Garden|7614.24|Electronics|5461.65
+627|Happy|Drewe|510-361-8657|Comanche|8 Ludington Crossing|Oakland|CA|94622|5048371064611260|Books|7406.02|Kids|7584.45|Games|8551.40
+628|Marcelia|Molnar|423-416-2878|Mayfield|7361 Cody Road|Kingsport|TN|37665|3553991856916502|Music|5549.54|Toys|3058.66|Games|7657.18
+629|Jemimah|Vitte|214-726-7859|Debra|3 Jenifer Plaza|Dallas|TX|75379|5641828219574553|Movies|27.34|Sports|7335.68|Clothing|9074.69
+630|Patricia|Flowith|503-514-2346|Veith|56 Schiller Alley|Portland|OR|97296|5048374534339785|Grocery|5385.22|Garden|2098.59|Electronics|8.50
+631|Bette-ann|Minghetti|605-173-9972|Esker|814 Bartillon Street|Sioux Falls|SD|57188|5602232528521430312|Garden|8624.19|Sports|9441.77|Music|4568.84
+632|Aridatha|Witcombe|720-363-3760|Reinke|687 Vernon Terrace|Denver|CO|80255|5010127819133701|Shoes|1338.38|Music|6802.06|Electronics|5500.86
+633|Minnie|Mackley|515-107-8685|Pond|557 Fallview Drive|Des Moines|IA|50981|491163552167288103|Computers|4646.73|Baby|9218.44|Clothing|3111.38
+634|Herculie|Eydel|601-129-1222|Westerfield|9252 School Place|Jackson|MS|39282|3539816959468276|Shoes|8384.94|Tools|6863.03|Computers|8729.75
+635|Agnola|Caldicott|213-890-0094|Hooker|4149 Hauk Circle|Los Angeles|CA|90087|3577929643345546|Kids|4872.41|Computers|7295.53|Home|9064.04
+636|Mindy|Stickney|412-301-5004|Butternut|48 Miller Lane|Pittsburgh|PA|15255|5602233521229953|Books|8351.91|Electronics|8921.01|Jewelry|2815.61
+637|Janeva|Chrstine|805-843-1222|Porter|10152 Lakewood Lane|Bakersfield|CA|93305|3555700477779803|Outdoors|7839.46|Shoes|1964.32|Computers|7461.84
+638|Remington|Kehoe|212-947-2067|Esker|4137 Lerdahl Pass|New York City|NY|10014|5475489743087397|Games|6885.60|Toys|5129.55|Toys|2790.84
+639|Erasmus|Spinello|806-753-3608|Browning|54023 Bowman Avenue|Amarillo|TX|79159|5100170103542626|Books|8770.45|Garden|1940.05|Kids|6148.82
+640|Morly|Pyzer|334-339-3548|Alpine|31123 Donald Road|Montgomery|AL|36119|3566033699524113|Grocery|4612.79|Games|2756.82|Jewelry|3049.82
+641|Drona|Faire|754-776-4239|Center|950 Village Green Lane|Fort Lauderdale|FL|33320|6759060485255172|Sports|8294.93|Tools|8170.42|Health|5693.38
+642|Celestyna|Palmar|202-815-4642|Russell|22 Crest Line Point|Washington|DC|20036|0604922085258089627|Games|301.13|Computers|782.26|Books|8210.03
+643|Dorris|Petersen|314-686-9259|Browning|2 Service Alley|Saint Louis|MO|63110|201930986358633|Tools|7089.58|Tools|5778.87|Sports|688.26
+644|Petunia|Apark|801-707-7005|Russell|4580 Roxbury Junction|Ogden|UT|84403|63043964882053154|Music|192.94|Books|4298.97|Grocery|9046.23
+645|Karilynn|Scirman|518-152-7193|Prairieview|17297 Grim Way|Schenectady|NY|12305|3539541744936292|Health|9933.60|Health|8731.95|Baby|9828.05
+646|Burtie|Sill|912-577-2660|Blackbird|333 Sutherland Drive|Savannah|GA|31405|5108758160097476|Garden|7844.56|Toys|10.44|Shoes|6113.80
+647|Emlynn|Jenkerson|419-351-1801|Manitowish|16158 Aberg Park|Mansfield|OH|44905|3552719418860756|Shoes|2469.95|Music|8954.94|Health|5118.17
+648|Marrilee|Westmacott|410-768-9092|Golf|775 Prairieview Junction|Baltimore|MD|21281|501868888808556688|Sports|3831.50|Beauty|7627.55|Garden|5079.93
+649|Suzy|Woodall|303-834-7979|Towne|570 Golden Leaf Hill|Denver|CO|80270|6333740490449314555|Jewelry|9903.04|Music|222.98|Games|2366.90
+650|Laurette|Barehead|617-647-2533|Nobel|52 Lakewood Gardens Point|Boston|MA|02119|5893234111761486|Baby|2941.10|Music|8715.27|Electronics|8159.73
+651|Maurits|Greatex|540-601-8528|Ramsey|64138 School Alley|Roanoke|VA|24029|4844721591931616|Music|1767.85|Industrial|2861.82|Garden|7063.18
+652|Jodie|Chappell|316-947-2537|Tony|82622 Transport Alley|Wichita|KS|67210|3552522157500827|Games|1852.46|Sports|6540.53|Baby|9756.36
+653|Cobb|Bowld|727-808-0348|Roth|59086 Warrior Place|Largo|FL|33777|201771290598880|Industrial|4085.29|Shoes|5375.03|Tools|7632.56
+654|Tommy|Mattheus|406-783-4130|Fieldstone|7 Bonner Trail|Bozeman|MT|59771|502003577978034642|Grocery|9245.59|Jewelry|2693.18|Beauty|3435.29
+655|Sabrina|Valerius|713-612-3278|Pond|40085 Farragut Parkway|Houston|TX|77271|3545802184192586|Beauty|923.13|Electronics|6826.43|Garden|5255.63
+656|Nero|Worgen|407-947-1875|Annamark|51 Buell Terrace|Orlando|FL|32859|5602255578934631|Jewelry|5518.43|Baby|5197.21|Beauty|2132.24
+657|Kit|Harget|319-124-6307|Glendale|7929 6th Avenue|Iowa City|IA|52245|201454601207760|Kids|4863.18|Kids|2512.54|Electronics|1956.47
+658|Tate|Hartmann|650-447-9119|Fieldstone|4 Grasskamp Way|Mountain View|CA|94042|3543992180259950|Baby|7864.46|Automotive|6513.38|Home|1493.72
+659|Ike|Figliovanni|214-836-2200|Kim|727 Utah Circle|Denton|TX|76210|3537159082317181|Garden|103.05|Music|9087.46|Games|9856.41
+660|Giselbert|Geal|757-785-5246|Sachtjen|99 Susan Hill|Norfolk|VA|23520|3554181817126461|Computers|7064.61|Clothing|1727.55|Books|7816.81
+661|Kristoffer|Yearn|407-906-2919|Derek|90486 Bobwhite Pass|Orlando|FL|32885|5018353786195570|Computers|4952.39|Grocery|8838.14|Home|889.03
+662|Sacha|Twigger|661-464-6023|Merchant|3618 Bluejay Place|Lancaster|CA|93584|4844627562247462|Grocery|5048.83|Health|4815.52|Electronics|2785.93
+663|Auberta|Aaron|502-198-1999|Crowley|51 Fairfield Avenue|Frankfort|KY|40618|3581620706483860|Sports|6372.14|Outdoors|5348.03|Automotive|5964.36
+664|Colver|Haggas|202-361-7540|Loomis|22 Algoma Place|Washington|DC|20337|3581149652753217|Computers|4246.17|Beauty|4713.88|Movies|8722.70
+665|Kinsley|Gudgen|954-211-4691|Straubel|5 Dryden Avenue|West Palm Beach|FL|33411|3581908913698580|Home|6978.50|Shoes|413.55|Garden|7897.28
+666|Tonya|Limeburner|405-117-3676|Kennedy|99 Laurel Park|Oklahoma City|OK|73197|4913030462062816|Beauty|4113.58|Health|9677.51|Shoes|6539.43
+667|Kele|Sivill|513-216-1562|Bluejay|954 Park Meadow Place|Cincinnati|OH|45228|5893182456529124692|Home|9800.68|Toys|4597.29|Tools|2199.37
+668|Valentine|Light|586-476-3855|Gina|215 Dottie Street|Detroit|MI|48224|3574229457726649|Baby|7111.66|Music|2677.94|Computers|5274.65
+669|Ebba|Wressell|919-214-3290|Daystar|0026 Dryden Alley|Raleigh|NC|27626|5124919096859039|Movies|6151.59|Kids|1483.09|Industrial|5739.25
+670|Lind|Purshouse|402-279-2897|Mandrake|4209 International Drive|Lincoln|NE|68505|5602213564318696974|Home|8578.31|Grocery|2469.73|Garden|7598.61
+671|Sile|Kain|210-595-5772|Drewry|5741 Kings Crossing|San Antonio|TX|78225|5100132915819329|Sports|4380.99|Beauty|9325.17|Health|126.87
+672|Langston|McCuish|919-347-4955|Old Shore|6861 Macpherson Terrace|Raleigh|NC|27658|3552221510927831|Toys|1232.49|Tools|1417.61|Electronics|433.76
+673|Linette|Coldbath|319-761-3307|Spaight|150 Nobel Way|Cedar Rapids|IA|52405|3529062467421638|Computers|2498.06|Tools|4598.28|Clothing|2026.78
+674|Kelcy|Baudacci|202-243-2870|Emmet|94 Lakewood Court|Washington|DC|20073|30216473530331|Computers|5311.86|Baby|931.06|Jewelry|7810.25
+675|Tamera|MacGruer|941-183-8255|Hooker|2 Dorton Drive|Bradenton|FL|34205|3554706594918019|Garden|4110.14|Baby|6590.42|Baby|9715.36
+676|Boy|Fidgeon|281-945-4477|Ruskin|86 Randy Junction|Houston|TX|77080|6762600085845883|Movies|2959.10|Garden|3000.92|Computers|4850.69
+677|Kaile|Jobling|602-370-9070|Marcy|428 Grover Trail|Phoenix|AZ|85072|4017950151131264|Sports|4477.04|Books|8810.36|Grocery|6950.23
+678|Thorn|Eusden|405-143-1580|David|8 Truax Way|Norman|OK|73071|5602211729324008|Sports|7670.21|Tools|6475.26|Outdoors|4758.20
+679|Adelle|Petschel|773-574-7412|Kenwood|63 Sheridan Court|Chicago|IL|60652|3541613400550547|Sports|2877.68|Movies|5024.89|Movies|4172.64
+680|Dee|Kelsall|202-224-3371|Killdeer|076 Oriole Plaza|Washington|DC|20535|4017957266406127|Outdoors|8772.44|Movies|6110.78|Tools|9322.27
+681|Emerson|Haggeth|713-405-5286|Jackson|8087 Florence Road|Houston|TX|77255|3582966816406831|Home|3469.99|Games|6484.68|Outdoors|4520.12
+682|Claybourne|Kyne|318-552-4466|Cardinal|4043 Little Fleur Way|Boston|MA|02104|3569962113106080|Shoes|6935.03|Sports|3456.92|Outdoors|9977.30
+683|Raye|Segrott|513-171-3036|Swallow|4753 Becker Terrace|Cincinnati|OH|45233|3570176772701506|Books|2455.20|Shoes|8959.66|Tools|6952.25
+684|Paten|Beake|202-685-3653|Butternut|4 Orin Terrace|Washington|DC|20370|30369392878834|Sports|4955.56|Home|1728.64|Outdoors|7057.03
+685|Vivianne|Dyerson|315-204-1942|Mayer|229 Jana Parkway|Syracuse|NY|13205|3549474716314470|Computers|1473.00|Outdoors|361.73|Music|214.04
+686|Olivie|Jahndel|913-432-0187|Ridgeview|83 Oxford Point|Shawnee Mission|KS|66276|5610410292234715|Movies|5383.02|Health|9777.84|Clothing|5069.55
+687|Errick|Saker|602-878-9247|Jay|41 Parkside Terrace|Phoenix|AZ|85062|493696180867091668|Outdoors|7941.84|Books|382.46|Electronics|7639.17
+688|Torre|Lavin|765-750-5145|Brentwood|6 Eggendart Way|Anderson|IN|46015|337941817821852|Industrial|3924.03|Health|31.32|Music|2371.58
+689|Carter|Grigoryev|214-587-9847|Jenifer|31 Dexter Lane|Dallas|TX|75342|3567251228501654|Music|5702.41|Sports|1766.16|Garden|2236.94
+690|Debbie|Lavrinov|508-353-9496|Utah|6 Artisan Avenue|New Bedford|MA|02745|5641820991810578|Games|4691.20|Home|5048.83|Books|6086.47
+691|Harriett|Midson|727-435-9670|Westridge|2 Susan Plaza|Clearwater|FL|33763|3566404345208510|Kids|5377.54|Jewelry|7795.67|Games|9963.09
+692|Jessie|Blackey|518-672-8574|Oak|356 Westerfield Plaza|Albany|NY|12210|3538351109583098|Grocery|9129.41|Music|7329.96|Sports|7600.59
+693|Fabien|Vaneschi|901-276-3192|Green|93 Magdeline Way|Memphis|TN|38168|3536976783991498|Grocery|9537.79|Computers|8202.69|Books|7969.88
+694|Jasmin|Fairholm|936-650-8052|Crescent Oaks|67 Homewood Place|Huntsville|TX|77343|4405972107763388|Movies|3543.87|Kids|4490.66|Jewelry|2650.00
+695|Irwinn|Jeram|304-560-4382|Vahlen|13282 Northland Road|Huntington|WV|25721|3544107650608540|Shoes|445.21|Grocery|6785.68|Toys|8683.80
+696|Dannie|Meade|716-997-1625|Weeping Birch|36001 Melody Court|Buffalo|NY|14233|3583899551368396|Games|4133.50|Health|3986.17|Electronics|7318.33
+697|Felix|Kilgallon|763-985-2885|Burning Wood|27614 Saint Paul Drive|Monticello|MN|55565|3529710036183853|Baby|1760.54|Outdoors|2686.73|Sports|894.28
+698|Wakefield|Dougal|321-908-7934|Arkansas|5 Dryden Place|Melbourne|FL|32941|3586804599171189|Industrial|7728.94|Jewelry|6960.44|Home|2320.74
+699|Toby|Hanley|812-451-9639|Ridgeway|9 Ridgeview Lane|Terre Haute|IN|47805|3579237545296009|Kids|5688.73|Automotive|4446.66|Kids|3252.30
+700|Hatti|Blythe|530-583-1845|Atwood|1171 Waubesa Lane|Sacramento|CA|95818|5641822982279456488|Garden|9738.46|Toys|1305.25|Music|2628.75
+701|Malory|Yushmanov|413-468-7526|Roth|03185 Homewood Alley|Springfield|MA|01114|5602248269471567|Clothing|5454.16|Home|7317.43|Computers|1952.17
+702|Elliot|Hasted|609-602-5436|Evergreen|58122 Kenwood Crossing|Trenton|NJ|08603|5318352382497312|Health|5489.09|Games|6363.93|Electronics|8800.10
+703|Rochester|Howison|646-320-9496|Elgar|6 Express Pass|New York City|NY|10170|342049823321637|Kids|9993.56|Industrial|2757.18|Health|3631.79
+704|Frederich|Dohmann|410-866-4382|Springview|1 Hazelcrest Way|Baltimore|MD|21229|3578069222549371|Sports|4805.72|Baby|930.92|Books|4967.63
+705|Benson|Rayworth|559-624-6288|Bunting|0889 Golf Course Avenue|Fresno|CA|93750|5018931719063369|Movies|2187.18|Clothing|1959.12|Music|1193.31
+706|Hallsy|Brewitt|502-382-9255|Holy Cross|01 Eliot Plaza|Louisville|KY|40210|4911686192860597|Automotive|6216.31|Clothing|9077.30|Beauty|7102.57
+707|Linette|Veel|202-303-5595|Anderson|6 Sycamore Center|Washington|DC|20557|490304575996171754|Jewelry|8839.90|Games|8475.55|Computers|3326.11
+708|Spike|Stonham|804-231-2241|Summit|0765 Killdeer Hill|Richmond|VA|23213|6759658906601254830|Games|147.48|Sports|4248.12|Outdoors|8163.48
+709|Hershel|Prater|814-657-0525|Burning Wood|3148 Anniversary Way|Erie|PA|16522|3531049018362128|Books|7843.99|Grocery|8565.91|Baby|7605.99
+710|Karolina|Gladdolph|304-762-4030|Cottonwood|0 Hollow Ridge Pass|Charleston|WV|25336|3537828898014873|Shoes|4248.18|Shoes|1984.45|Electronics|9616.46
+711|Annie|Tomasi|352-421-3394|Dorton|20 Express Place|Brooksville|FL|34605|5048370912389475|Music|7077.62|Books|2663.27|Sports|1935.61
+712|Dov|Darben|210-260-2216|Anniversary|4166 1st Circle|San Antonio|TX|78205|4041371829104239|Electronics|6032.16|Music|4893.23|Garden|1369.13
+713|Devlin|Hubball|361-129-0893|Graceland|92 Hansons Lane|Corpus Christi|TX|78405|4041375038692|Industrial|8483.20|Sports|832.17|Movies|6645.63
+714|Terese|Robottham|305-293-7940|Fairfield|6 Meadow Ridge Pass|Miami|FL|33180|676194133366416511|Kids|910.29|Outdoors|3844.10|Toys|7395.49
+715|Dilly|McFeate|248-376-6555|Bartillon|8 Raven Court|Troy|MI|48098|3558264712439761|Grocery|8599.06|Grocery|6092.44|Music|1583.12
+716|Pat|McCowen|305-327-3755|Hintze|2 Namekagon Court|Miami|FL|33142|4936285552385211|Books|2073.63|Toys|9944.16|Shoes|869.32
+717|Damon|Redmain|917-855-3131|Ludington|7 Raven Crossing|New York City|NY|10019|3531687143408942|Beauty|6039.45|Clothing|2723.90|Computers|1546.54
+718|Erny|Glascott|313-147-7239|Weeping Birch|52030 Lakewood Gardens Court|Detroit|MI|48224|201469967294111|Games|6421.36|Outdoors|1921.84|Music|3049.21
+719|Mozes|Slide|304-459-2166|Bunker Hill|535 Green Place|Huntington|WV|25711|3564975511528247|Beauty|4489.98|Baby|2926.41|Health|9569.91
+720|Cesya|Aksell|423-940-3868|Kingsford|778 Canary Circle|Johnson City|TN|37605|5020012695995473135|Computers|3094.87|Outdoors|1210.26|Shoes|3499.53
+721|Elane|Stiddard|801-854-7828|Sycamore|4 Sutteridge Plaza|Sandy|UT|84093|30285081428105|Baby|6923.17|Toys|8357.05|Shoes|8179.32
+722|Gusella|Dietzler|904-660-8971|Hoepker|661 Longview Road|Jacksonville|FL|32220|5224304018895800|Sports|4510.75|Outdoors|1325.35|Toys|3879.73
+723|Emylee|Clerc|406-286-9422|Glendale|02338 Mariners Cove Terrace|Missoula|MT|59806|5007666460580921|Jewelry|9134.75|Electronics|1673.20|Electronics|4798.80
+724|Trstram|Manns|979-925-1481|Gerald|6434 Service Drive|Houston|TX|77040|3560937409745477|Grocery|2100.18|Jewelry|1273.17|Tools|5164.70
+725|Atlanta|McCurtain|319-788-8177|Paget|63 Independence Crossing|Iowa City|IA|52245|30562116546659|Jewelry|5498.54|Baby|1372.25|Kids|2775.48
+726|Ker|Piatti|254-993-6010|Dennis|45 North Drive|Waco|TX|76705|4017952310480|Home|3323.99|Outdoors|5096.68|Books|7293.19
+727|Sig|Gile|415-360-2462|Jay|9 Acker Place|San Francisco|CA|94147|3552720489405927|Movies|5124.02|Industrial|5831.77|Shoes|8934.86
+728|Kerianne|Dearn|520-766-9109|Kenwood|639 Bayside Crossing|Tucson|AZ|85748|3563350807264934|Grocery|3504.01|Movies|4362.99|Games|2682.51
+729|Estell|Curnick|336-516-8775|Birchwood|98553 Esch Drive|Winston Salem|NC|27116|3531159353159490|Outdoors|2602.80|Automotive|7633.31|Tools|2373.71
+730|Minor|Vasin|202-960-5233|Swallow|87 David Road|Washington|DC|20073|3538411399473416|Outdoors|1522.11|Kids|2351.71|Books|9494.18
+731|Romona|Luker|941-837-3719|Iowa|44749 Farwell Lane|Bonita Springs|FL|34135|3586370957456497|Computers|1093.22|Tools|3537.05|Home|1419.93
+732|Corena|Confait|806-575-7625|Crescent Oaks|5 Springview Street|Amarillo|TX|79188|3552051677612821|Grocery|6443.13|Music|3162.11|Jewelry|2011.43
+733|Lauren|Teenan|915-187-5918|Little Fleur|7 Truax Hill|El Paso|TX|79977|3540226697423954|Industrial|5078.82|Shoes|221.61|Baby|3182.58
+734|Kleon|Dukesbury|919-175-4390|Buell|86 Hazelcrest Street|Raleigh|NC|27605|4903237229806623246|Garden|8816.06|Beauty|8850.85|Computers|9654.79
+735|Ruby|Klimov|214-399-9925|Portage|556 Moulton Center|Dallas|TX|75323|3544776739267096|Beauty|8270.42|Computers|2663.63|Beauty|2049.27
+736|Sam|Lake|860-203-5248|South|51936 Charing Cross Court|Hartford|CT|06120|5100176580598296|Shoes|7895.98|Tools|1274.65|Electronics|5974.21
+737|Decca|Dorn|863-111-6515|Warbler|6152 Lakeland Hill|Lakeland|FL|33811|676726775120696098|Beauty|771.80|Garden|5416.59|Jewelry|3218.44
+738|Agnella|Dobbing|719-690-6405|Ramsey|1687 Arrowood Crossing|Colorado Springs|CO|80945|5602220962851435142|Kids|1829.89|Baby|8767.07|Tools|2212.55
+739|Rance|Fairholme|919-306-4367|Upham|287 Northwestern Drive|Raleigh|NC|27690|6379640137024843|Tools|1007.90|Shoes|2124.07|Kids|7903.86
+740|Padgett|Mayo|786-499-9335|Warner|58963 Green Ridge Way|Miami|FL|33180|630472489577728718|Clothing|9166.27|Outdoors|7235.07|Beauty|1506.58
+741|Clare|Jurczyk|816-331-4777|Montana|18 Lunder Junction|Kansas City|MO|64130|3561379134747008|Industrial|1543.33|Music|3481.45|Outdoors|5267.29
+742|Lesly|Schimon|904-868-9098|Transport|20 Rusk Pass|Jacksonville|FL|32209|560222921729394306|Games|2215.51|Books|8784.31|Tools|2415.66
+743|Town|Westpfel|770-756-6484|Goodland|254 Toban Crossing|Alpharetta|GA|30022|5602224638354602|Industrial|6198.56|Automotive|94.38|Electronics|4254.85
+744|Tarah|Chedgey|808-529-3068|Goodland|65 Luster Center|Honolulu|HI|96850|3541574611279609|Home|1699.92|Shoes|7717.70|Clothing|4282.05
+745|Roderick|Swadon|225-638-1338|Sommers|1 Towne Circle|Baton Rouge|LA|70883|3581495216804545|Kids|5338.40|Beauty|20.48|Tools|8749.46
+746|Lorilee|Shellcross|615-471-5091|Golf Course|3 Vidon Way|Memphis|TN|38104|6759811028593095933|Music|9190.36|Sports|5206.81|Home|3812.84
+747|Costa|Clubbe|571-957-8402|Spenser|328 Mariners Cove Plaza|Arlington|VA|22217|4041591838867431|Computers|3959.20|Movies|7567.59|Outdoors|2308.15
+748|Sioux|Mc Caughen|701-678-3326|Springs|051 Veith Point|Bismarck|ND|58505|3577545483841574|Kids|6968.38|Electronics|6270.06|Garden|3961.99
+749|Maegan|Petkov|307-733-6033|Sommers|7089 Paget Court|Cheyenne|WY|82007|3582229182525795|Computers|9814.99|Baby|4397.02|Beauty|5229.59
+750|Marlane|Egle of Germany|713-697-3932|Harbort|7343 Kenwood Street|Houston|TX|77250|3567406940427253|Automotive|716.65|Baby|58.20|Baby|4175.45
+751|Salim|Blazynski|202-588-7253|Memorial|7 Derek Pass|Washington|DC|20508|3549703075808171|Games|139.34|Clothing|2292.59|Jewelry|6402.15
+752|Clerkclaude|Cornilli|806-588-1441|Golden Leaf|8408 Burrows Pass|Amarillo|TX|79176|5269855701401442|Movies|1590.89|Outdoors|6345.53|Clothing|1738.62
+753|Sylvia|Ramsby|916-157-4986|Coolidge|8 Stang Center|Sacramento|CA|95833|30583019833671|Industrial|9864.06|Games|6881.78|Electronics|8238.53
+754|Alys|Evennett|972-748-3037|Loftsgordon|09 Bonner Place|Dallas|TX|75221|5602236197523468|Books|2321.71|Sports|9073.16|Grocery|8499.08
+755|Boone|Janusz|330-253-6366|Derek|129 Veith Point|Canton|OH|44710|3565683078538042|Baby|4536.08|Health|5759.94|Home|2714.50
+756|Kirby|Presswell|520-208-4699|Sachtjen|6613 Cordelia Alley|Tucson|AZ|85754|6759908046669213580|Music|2978.71|Toys|7450.24|Games|5864.13
+757|Rosalinde|Corcut|303-476-5777|Linden|1659 Mitchell Crossing|Boulder|CO|80310|5100141439757857|Books|7489.01|Automotive|6659.08|Sports|6695.13
+758|Wanda|Mathouse|216-226-8284|Gale|8405 Prentice Center|Cleveland|OH|44111|36752239875879|Kids|1891.66|Jewelry|589.07|Music|1725.69
+759|Aldrich|Monday|816-998-7688|Sommers|40579 Meadow Valley Court|Independence|MO|64054|3533001368922629|Music|5822.79|Clothing|1589.57|Toys|3104.05
+760|Hugues|Brimicombe|212-238-7651|Shoshone|40 Del Mar Hill|New York City|NY|10115|6387387198275589|Home|3276.29|Clothing|1393.07|Jewelry|5235.54
+761|Aron|Iliff|713-939-9251|Red Cloud|79446 Warrior Place|Houston|TX|77255|630426177927599411|Garden|2694.02|Toys|4725.82|Shoes|4781.08
+762|Erin|Stanman|714-196-8106|Briar Crest|39 Dayton Lane|Anaheim|CA|92812|675937723650001971|Beauty|558.09|Toys|6688.85|Kids|4625.19
+763|Bendicty|Mallion|915-394-0822|Clyde Gallagher|241 Alpine Circle|El Paso|TX|79984|30291390973096|Computers|71.17|Sports|9144.63|Industrial|8509.42
+764|Jennilee|Bruce|765-171-6086|Mariners Cove|3023 Marcy Lane|Indianapolis|IN|46202|3551530051432550|Beauty|8759.45|Computers|2748.71|Jewelry|3495.93
+765|Gibbie|Benterman|682-407-3268|Sauthoff|48 Glendale Parkway|Fort Worth|TX|76198|374622012714258|Beauty|2019.07|Shoes|3229.85|Home|105.89
+766|Lonnard|Wingatt|323-674-0792|Green|9 Dottie Junction|Glendale|CA|91205|30140031376575|Jewelry|767.58|Health|8768.64|Sports|9964.94
+767|Sonia|McGee|404-333-5357|High Crossing|8 Hoepker Court|Atlanta|GA|30336|5108757833799781|Games|3662.42|Music|4846.31|Books|8688.14
+768|Bernardo|Redfearn|951-199-4116|Schlimgen|6 Summit Lane|Corona|CA|92883|3535946930167962|Clothing|9257.97|Tools|4249.45|Home|3524.56
+769|Federico|Baggallay|518-386-1548|Shoshone|975 Maple Wood Court|Albany|NY|12255|5420792258804924|Industrial|7442.21|Tools|4052.34|Sports|7003.41
+770|Brook|Merdew|704-631-8125|North|8 Springs Plaza|Charlotte|NC|28225|344542664576457|Grocery|7992.16|Tools|3780.37|Toys|9047.74
+771|Virge|Tommaseo|913-859-8200|Northfield|68 Hermina Park|Shawnee Mission|KS|66276|3551756486300563|Electronics|1587.45|Baby|7462.22|Garden|8460.96
+772|Jackquelin|Zecchinii|786-446-1024|Ludington|68151 Toban Crossing|Miami|FL|33164|5602228555084228771|Books|283.45|Movies|1307.26|Outdoors|8104.30
+773|Orel|McAulay|412-332-2702|Wayridge|3 Hazelcrest Circle|Pittsburgh|PA|15250|3553054744757750|Books|6738.82|Movies|8205.07|Electronics|8128.37
+774|Renata|Sproul|423-977-8241|Reinke|5363 Leroy Street|Kingsport|TN|37665|3571133326970375|Outdoors|9429.73|Health|9092.37|Sports|4843.02
+775|Malena|Peal|323-536-7107|Melby|74 Scofield Circle|Los Angeles|CA|90076|5100171030766676|Grocery|9068.63|Games|4445.69|Health|5157.07
+776|Domingo|Ellesworth|402-515-8003|Montana|7 Crownhardt Drive|Omaha|NE|68164|3551767672730737|Sports|9727.83|Automotive|5264.67|Garden|783.97
+777|Ogdan|Ashtonhurst|254-355-4743|Oriole|42 Pawling Avenue|Temple|TX|76505|3587552152033200|Sports|6557.44|Sports|4093.90|Toys|6973.20
+778|Cinnamon|Zoephel|253-700-5014|Chive|27 Upham Parkway|Tacoma|WA|98442|5018185561072475697|Clothing|1751.29|Kids|8456.91|Automotive|1953.69
+779|Ertha|Strephan|260-343-4178|Merrick|95418 Ludington Trail|Fort Wayne|IN|46805|3542237641766966|Beauty|9621.80|Home|5030.41|Outdoors|1826.37
+780|Filberto|Southway|339-680-5184|Gulseth|606 Luster Court|Woburn|MA|01813|3549578042272432|Jewelry|4362.04|Clothing|4982.97|Computers|8125.08
+781|Ryon|Wilder|650-510-9409|Petterle|705 Linden Pass|Mountain View|CA|94042|5602215606790868|Beauty|5701.22|Outdoors|1353.38|Games|8581.71
+782|Cointon|Bertelmot|512-826-4062|Redwing|9020 Jana Center|Austin|TX|78726|3552953359043706|Health|503.80|Garden|3139.51|Health|9513.46
+783|Jo ann|Tedman|225-751-6904|East|580 Hollow Ridge Pass|Baton Rouge|LA|70883|490361535351068912|Outdoors|8491.70|Music|4936.70|Baby|8276.23
+784|Laurette|Bereford|817-256-2853|Di Loreto|09 Fulton Drive|Denton|TX|76210|490539761684081540|Home|9476.88|Toys|9696.56|Clothing|2407.40
+785|Talyah|Aldington|702-686-1058|Crescent Oaks|798 Schmedeman Point|Henderson|NV|89074|5018429183314570197|Kids|1480.09|Music|8156.45|Health|2846.45
+786|Guthrey|Jotham|903-531-2320|Eastlawn|5 Kings Street|Dallas|TX|75226|201642648034748|Jewelry|7613.40|Grocery|2806.92|Garden|51.40
+787|Gregory|Verni|517-919-8038|Northview|913 Steensland Drive|Lansing|MI|48912|3529850082928544|Garden|5508.26|Clothing|9051.68|Industrial|7914.84
+788|Sheilah|Mallinson|915-909-3104|Schiller|89339 Memorial Street|El Paso|TX|88589|337941850368191|Garden|2729.63|Sports|710.26|Toys|1440.51
+789|Adelina|Madison|314-893-5806|Lukken|2515 Shoshone Drive|Saint Louis|MO|63121|3569710901855768|Industrial|7312.64|Electronics|639.93|Electronics|8208.62
+790|Aleda|Jinkinson|412-161-6652|Victoria|392 Nova Plaza|Pittsburgh|PA|15286|3557027232761738|Outdoors|220.97|Clothing|3308.89|Movies|2608.01
+791|Pablo|Ash|508-760-2176|Rutledge|2 Grasskamp Hill|Brockton|MA|02305|30492759168738|Grocery|4939.90|Automotive|712.64|Music|6882.00
+792|Orazio|Dudley|407-846-0204|Gale|23 Sage Trail|Orlando|FL|32819|503824188006282453|Home|927.44|Home|2196.93|Automotive|8392.05
+793|Timothee|Aronowicz|303-191-4301|Autumn Leaf|35 Eastlawn Point|Denver|CO|80217|56022441208516007|Music|9412.06|Games|9603.19|Music|6343.99
+794|Haley|Joyes|915-605-3701|Rusk|033 Laurel Center|El Paso|TX|88530|3553284977306328|Music|6156.14|Garden|4414.89|Garden|5529.28
+795|Callie|Rockwell|602-283-2553|Monica|7 Westridge Parkway|Mesa|AZ|85205|5100148052845547|Games|8288.53|Health|5009.20|Garden|2971.45
+796|Ralph|Fouracres|440-866-9789|Myrtle|9 Meadow Valley Center|Cleveland|OH|44177|3566011826031848|Shoes|9239.14|Music|5009.18|Automotive|9822.57
+797|Glendon|Niessen|202-929-4895|American Ash|47724 Messerschmidt Junction|Washington|DC|56944|5602253751895356|Kids|6812.58|Computers|8229.66|Toys|7553.99
+798|Cheston|Cordey|859-537-0369|Ilene|1 Eastwood Terrace|Lexington|KY|40596|6771190249282941|Grocery|1309.79|Games|707.10|Clothing|2539.08
+799|Shirlene|Stuckey|440-667-5754|Hansons|0307 Merry Drive|Cleveland|OH|44125|3565555765213370|Health|933.20|Baby|3991.70|Jewelry|748.66
+800|Rozella|Gipson|626-123-9897|Karstens|22197 5th Pass|Alhambra|CA|91841|3548499888759427|Automotive|2743.78|Home|6736.15|Jewelry|599.52
+801|Juana|Pemberton|805-343-3594|Washington|368 Dennis Place|Oxnard|CA|93034|3579465526845029|Computers|9051.29|Music|8449.90|Computers|6848.08
+802|Korella|Klimpt|757-915-6461|Stang|27 Evergreen Junction|Norfolk|VA|23504|3537358308996055|Toys|9304.26|Computers|1657.83|Health|9050.11
+803|Berkley|Knappitt|517-117-0350|Village Green|0905 Shoshone Plaza|Lansing|MI|48901|4405950976382662|Books|2238.78|Automotive|4367.31|Automotive|7502.71
+804|Eula|Tenniswood|404-678-8767|Meadow Ridge|1949 Sunnyside Junction|Decatur|GA|30033|3529018012477293|Computers|7169.64|Movies|2593.43|Health|1505.03
+805|Marilin|Dorgan|972-710-7455|Surrey|2291 Northfield Terrace|Dallas|TX|75231|3571142402203031|Tools|2772.86|Electronics|3943.27|Health|710.89
+806|Muriel|Addison|757-206-9697|Marquette|4 Bayside Avenue|Norfolk|VA|23551|4041592656961|Books|259.32|Home|2250.08|Toys|7042.70
+807|Isa|Volkers|785-615-8314|North|29 International Court|Topeka|KS|66642|3556141916206737|Clothing|1601.82|Books|5345.56|Garden|7577.30
+808|Yul|Frichley|202-860-6246|Fordem|26 Packers Crossing|Washington|DC|20557|5602245336852142|Jewelry|4562.90|Jewelry|8896.35|Computers|9672.81
+809|Maryjane|McLaverty|720-619-2149|Waxwing|471 Nancy Park|Denver|CO|80235|3559045160601427|Games|3183.08|Computers|9595.20|Toys|3677.21
+810|Thurston|Kellert|310-338-5781|Coolidge|53196 Gale Point|Inglewood|CA|90398|5002357120123717|Books|4434.44|Industrial|7754.28|Kids|2228.82
+811|Brena|McCullogh|517-504-2965|Sutherland|797 West Street|Lansing|MI|48901|5100145883146269|Health|8273.99|Baby|6677.87|Outdoors|9507.80
+812|Germain|Bogges|480-953-8597|Monica|7149 Waxwing Court|Mesa|AZ|85205|201953306316123|Books|4318.04|Electronics|9044.65|Home|5485.42
+813|Stacee|Edinburough|254-694-0408|Onsgard|715 John Wall Road|Gatesville|TX|76598|3538122797648992|Books|2710.88|Grocery|1713.55|Kids|7623.53
+814|Tallou|Fellon|651-890-7700|Muir|812 Sutherland Alley|Minneapolis|MN|55402|5018139724831842|Electronics|1218.64|Tools|5813.54|Electronics|7467.95
+815|Hatti|Jiru|216-397-5788|Talmadge|3 Dunning Lane|Cleveland|OH|44185|30289038784735|Books|9400.49|Automotive|3639.31|Clothing|8702.77
+816|Gisele|Boustead|205-234-6076|Stuart|0524 Manufacturers Alley|Tuscaloosa|AL|35405|3586213759573053|Shoes|4386.02|Electronics|9441.80|Garden|5790.39
+817|Petey|Sollas|502-996-8040|Artisan|775 Monica Junction|Louisville|KY|40220|374283352717144|Music|855.35|Computers|3482.68|Tools|558.12
+818|Dagny|Southern|704-131-4589|Gale|44 Bayside Terrace|Charlotte|NC|28299|201621881030845|Jewelry|7368.19|Toys|2063.72|Sports|9198.92
+819|Mariam|Mordey|952-936-0971|Heath|5 Quincy Parkway|Young America|MN|55573|6334943234116344906|Health|1422.99|Baby|7073.24|Baby|4910.26
+820|Haven|Oldaker|401-553-4909|Nova|17 Algoma Plaza|Providence|RI|02905|3543720671120708|Movies|3179.59|Baby|7947.92|Sports|6435.57
+821|Morissa|Pancast|209-277-0191|2nd|009 Troy Trail|Fresno|CA|93704|201626450418404|Garden|7815.06|Outdoors|4493.92|Tools|4981.58
+822|Tamara|Yegorov|202-381-3158|Clove|88037 Quincy Park|Washington|DC|20508|3585734113803267|Shoes|3789.39|Games|3344.14|Industrial|2517.88
+823|Florry|Dillon|256-579-1642|Red Cloud|694 Commercial Terrace|Anniston|AL|36205|3555016775947277|Baby|6120.92|Sports|374.50|Computers|9729.70
+824|Elonore|Frankton|303-457-8136|Ramsey|5850 Eastwood Drive|Aurora|CO|80044|5602235165991053|Toys|6212.70|Garden|1613.29|Music|7715.52
+825|Ollie|Cottle|502-391-6723|Algoma|6122 Waubesa Alley|Louisville|KY|40220|3567735179028857|Kids|8177.11|Movies|5876.16|Books|1185.40
+826|Celie|Breewood|203-873-1861|Algoma|504 Anzinger Street|Stamford|CT|06905|3559258194384312|Music|2642.16|Health|6900.13|Sports|1548.72
+827|Alec|Gaskins|415-647-7163|5th|3 Lien Court|San Francisco|CA|94177|6378221039259927|Outdoors|4858.41|Grocery|851.08|Movies|7006.64
+828|Carson|Dackombe|510-789-0781|Crest Line|3 Montana Drive|Berkeley|CA|94712|4041372759282|Garden|805.32|Home|8366.31|Music|6588.13
+829|Binnie|Pullman|503-854-9947|Boyd|855 Colorado Court|Portland|OR|97201|3549029348300626|Music|6519.02|Beauty|3762.68|Beauty|1951.20
+830|Basilius|Alasdair|281-791-0713|Park Meadow|7978 Fieldstone Hill|Pasadena|TX|77505|374288765187280|Shoes|6022.60|Sports|1314.18|Music|5663.74
+831|Fabiano|Crosswaite|651-497-5953|Sage|860 Twin Pines Alley|Saint Paul|MN|55115|3538120710565343|Clothing|5957.20|Electronics|7959.67|Automotive|4504.55
+832|Darlleen|Armatys|714-490-1826|Mendota|20693 Sunbrook Alley|Irvine|CA|92717|3537389130133575|Automotive|1894.32|Electronics|6685.39|Home|1085.86
+833|Leeann|Kettlestringe|806-362-9741|Scott|14 Dottie Road|Amarillo|TX|79188|3576165103345194|Computers|4206.67|Grocery|2867.87|Clothing|339.20
+834|Franklyn|Karpinski|202-740-2785|4th|16 Welch Center|Washington|DC|20430|5610420770337641|Books|9004.78|Games|7143.45|Sports|6084.64
+835|Kally|Bolderstone|720-723-6501|Kropf|92 1st Way|Denver|CO|80204|6385626055553287|Computers|9631.08|Garden|3464.77|Health|183.04
+836|Sim|McComish|516-559-1632|Twin Pines|758 Vidon Street|Hicksville|NY|11854|3531064796330254|Sports|2544.48|Jewelry|900.20|Clothing|8785.71
+837|Minda|Berth|801-655-5404|Cascade|1 Farragut Lane|Provo|UT|84605|493682592077251823|Kids|1888.34|Industrial|3774.60|Toys|1099.41
+838|Deeyn|Aumerle|682-988-1216|Armistice|84 Hayes Road|Fort Worth|TX|76192|5384658155890510|Games|8697.51|Sports|8481.39|Health|3232.55
+839|Rosana|Silvers|303-227-2043|Clemons|7 South Terrace|Denver|CO|80270|201684718078122|Sports|7677.82|Clothing|5880.01|Tools|3178.33
+840|Ewan|Huddleston|212-226-0137|Lillian|089 Red Cloud Plaza|New York City|NY|10150|3545918591776371|Clothing|3552.44|Computers|3329.43|Games|3968.64
+841|Nevile|Marklin|405-779-7573|Annamark|47556 Center Crossing|Oklahoma City|OK|73135|5602234977389796|Industrial|2627.27|Toys|7810.87|Games|3064.82
+842|Derrick|Baudone|713-645-2763|Doe Crossing|774 Mcbride Crossing|Houston|TX|77245|3566825775397672|Music|6588.64|Health|2985.37|Health|3919.67
+843|Austen|Bowgen|402-236-6833|Eliot|906 Emmet Circle|Lincoln|NE|68510|5591483473120824|Industrial|513.88|Toys|7077.10|Health|6226.24
+844|Dillie|Goudard|515-487-1819|Sugar|7 Nova Park|Des Moines|IA|50310|4026262435193501|Kids|5810.01|Computers|9353.47|Electronics|8151.11
+845|Rip|Julian|916-503-8878|Calypso|5 Miller Junction|Sacramento|CA|94207|3573014587310980|Tools|8906.18|Tools|8206.43|Sports|5626.07
+846|Felipe|Seabrocke|256-940-1419|Rowland|3 Myrtle Pass|Anniston|AL|36205|6333727989203757450|Health|4391.78|Tools|4799.87|Jewelry|1292.16
+847|Ellary|Turton|202-233-2631|Green Ridge|4240 Miller Junction|Washington|DC|20380|201625969671024|Tools|8858.62|Kids|7538.81|Games|6563.01
+848|Shaun|Blundin|202-461-7832|Havey|46 Oxford Pass|Washington|DC|20525|4041370488820192|Grocery|8596.94|Music|7847.36|Jewelry|6027.46
+849|Nicholle|Bockett|205-474-4218|Steensland|4 Montana Lane|Tuscaloosa|AL|35487|3534642448089597|Music|7951.74|Electronics|1796.82|Books|5855.07
+850|Wanids|Grzegorzewski|704-601-9696|Burrows|14058 Westridge Alley|Charlotte|NC|28210|5541542749034555|Shoes|2564.19|Music|2138.86|Automotive|6715.96
+851|Gretta|Dearle|412-656-8924|Hallows|58666 Elka Terrace|Pittsburgh|PA|15274|3585660957926411|Automotive|8242.05|Kids|1813.24|Sports|6138.41
+852|Lindsey|Nehlsen|862-355-2426|Welch|4475 Emmet Terrace|Paterson|NJ|07505|3572653591707102|Sports|3125.60|Baby|1946.62|Outdoors|3102.42
+853|Ainslee|Tomaselli|435-254-6997|Ohio|331 Hanover Road|Salt Lake City|UT|84105|4913216367891918|Jewelry|497.12|Grocery|5460.92|Baby|9937.53
+854|Donnie|Turner|903-435-0598|Crescent Oaks|30 Graceland Center|Longview|TX|75605|4844439649008481|Health|3888.93|Music|6988.71|Health|9512.32
+855|Gerald|Tollerton|319-417-0611|Golf Course|42702 Rockefeller Lane|Cedar Rapids|IA|52410|3575720198897102|Books|760.36|Industrial|4424.27|Computers|7168.45
+856|Gregorio|Minshaw|318-133-3159|Ohio|907 Mayfield Avenue|Boston|MA|02104|4911042823536136517|Electronics|2038.30|Beauty|8510.33|Industrial|4905.95
+857|Perl|Wayman|951-817-3023|Center|5 Sutherland Pass|Riverside|CA|92513|4844385914101768|Clothing|8224.32|Clothing|1491.93|Garden|5969.78
+858|Lucie|Blenkhorn|717-526-5698|Stoughton|217 Dapin Road|York|PA|17405|560225166566596665|Toys|9557.39|Music|7739.44|Home|4551.57
+859|Brana|Hillyatt|513-713-8576|Blackbird|0 Lotheville Lane|Cincinnati|OH|45243|3531375649956297|Beauty|8992.98|Home|7479.71|Music|220.95
+860|Celene|Paradyce|330-448-2118|Elgar|15827 Caliangt Drive|Akron|OH|44310|30064511598914|Home|8469.28|Industrial|3158.35|Shoes|2230.04
+861|Bernarr|Goddman|251-290-7280|Delaware|4057 Debs Court|Mobile|AL|36616|3543882088015614|Garden|4583.38|Outdoors|3412.36|Tools|2759.66
+862|Catina|Samwaye|405-553-7007|Springs|1 Marquette Center|Oklahoma City|OK|73157|30418354181578|Outdoors|503.30|Computers|2556.10|Garden|9951.35
+863|Ilyssa|Sarjeant|229-635-7737|Nova|2 Gerald Crossing|Valdosta|GA|31605|379391451907022|Automotive|8536.57|Clothing|4453.63|Home|3437.04
+864|Ashlie|Libbis|719-524-2619|Banding|83 Artisan Way|Colorado Springs|CO|80935|3554782676248377|Movies|8995.52|Computers|9530.51|Computers|2124.56
+865|Obadias|Shiel|202-289-8008|Utah|966 Maple Wood Street|Washington|DC|20099|6304257030011378202|Sports|1102.18|Tools|3461.08|Movies|8435.54
+866|Casi|Antonsson|757-223-4906|Oakridge|194 Village Center|Newport News|VA|23605|3533842818374964|Automotive|1243.82|Grocery|8448.49|Baby|9615.01
+867|Lyda|Burkin|260-637-2742|Grasskamp|3 Fairview Way|Fort Wayne|IN|46867|5602256745662337|Clothing|9121.41|Sports|4538.12|Home|5079.09
+868|Blondie|Stein|202-351-5338|Burning Wood|735 Steensland Parkway|Washington|DC|20231|3549971528378791|Shoes|2713.44|Sports|1460.45|Beauty|7581.55
+869|Sybyl|Covendon|901-192-7703|Derek|66779 Di Loreto Circle|Memphis|TN|38126|3580868757064748|Beauty|5416.27|Outdoors|7986.40|Beauty|386.46
+870|Meridith|Cleugh|414-370-0181|Express|51215 Reinke Point|Milwaukee|WI|53210|3528270752384061|Outdoors|3360.88|Toys|9000.10|Sports|4109.50
+871|Micky|Larkin|317-812-0241|Caliangt|80566 Little Fleur Place|Indianapolis|IN|46216|201636579466754|Automotive|4026.97|Kids|1764.93|Music|7424.76
+872|Katina|Domelow|915-592-4574|Colorado|771 Dexter Crossing|El Paso|TX|79999|3568698302151013|Outdoors|6517.35|Toys|7409.76|Beauty|7013.20
+873|Viviene|Hawkwood|704-164-7787|Raven|6 Annamark Park|Charlotte|NC|28247|30074088543938|Home|525.00|Home|4498.97|Jewelry|5596.93
+874|Innis|Murrthum|317-159-1464|Sycamore|23650 Heffernan Way|Indianapolis|IN|46295|3576018943325431|Jewelry|3732.81|Jewelry|8161.75|Electronics|5061.80
+875|Matteo|Povlsen|727-999-5941|Cordelia|4713 Crescent Oaks Circle|Saint Petersburg|FL|33715|3537720111389523|Music|3595.85|Computers|7867.37|Industrial|8874.75
+876|Terese|Kimbley|410-193-1203|Fuller|6 Sheridan Road|Baltimore|MD|21211|3543725419222682|Home|7934.52|Health|4470.34|Toys|9736.39
+877|Lyle|Paff|651-487-3764|6th|6734 Susan Junction|Saint Paul|MN|55115|675905402846695701|Kids|5925.24|Toys|6599.25|Tools|9766.48
+878|Lavinia|Lethbridge|210-981-1170|Dahle|2 Service Alley|San Antonio|TX|78278|4905650754189819|Automotive|4791.20|Baby|798.62|Clothing|493.34
+879|Marla|Pennington|915-201-3862|Prairie Rose|59918 Burning Wood Road|El Paso|TX|88563|3552723204433687|Kids|2431.62|Tools|657.10|Outdoors|5739.70
+880|Linda|Wetter|571-298-7149|Reindahl|7359 Bashford Way|Springfield|VA|22156|6767785525548248926|Movies|8761.64|Toys|5334.54|Grocery|7201.97
+881|Irene|Wloch|512-892-7008|Buena Vista|14899 Center Center|Austin|TX|78744|3567121932478285|Jewelry|8797.80|Automotive|6530.75|Books|7824.15
+882|Dov|Elsley|402-368-1109|Everett|80255 Clarendon Road|Omaha|NE|68117|3542698508255908|Movies|2053.21|Jewelry|4945.14|Grocery|5784.36
+883|Toby|Tuiller|732-579-5783|Hazelcrest|4 Brickson Park Park|New Brunswick|NJ|08922|3568313362345329|Toys|6838.09|Computers|9354.38|Health|564.11
+884|Angelo|Hallbord|205-894-8656|Express|5 Buell Lane|Birmingham|AL|35263|3546290654110974|Kids|7858.63|Grocery|7624.64|Electronics|6420.50
+885|Sari|Goford|513-706-7765|Cherokee|52 Barby Lane|Cincinnati|OH|45249|6386169067061097|Beauty|5073.32|Music|4842.83|Shoes|6471.20
+886|Vinnie|Curuclis|713-818-8770|Bunker Hill|792 Banding Way|Houston|TX|77206|0604420812690660518|Kids|2618.77|Movies|5554.63|Music|3213.48
+887|Dina|Boreham|404-453-4633|Forest|27 Westend Plaza|Atlanta|GA|30358|3562421673927275|Clothing|7789.48|Books|6927.82|Kids|7653.69
+888|Ilyse|Trythall|202-133-8553|Kingsford|27 Haas Crossing|Washington|DC|20520|374283826810541|Electronics|8375.82|Kids|803.61|Clothing|296.09
+889|Persis|Piotr|862-531-5418|Holy Cross|59 Portage Street|Newark|NJ|07188|30453788547045|Kids|4240.83|Shoes|7532.63|Beauty|9105.59
+890|Billye|Thwaites|612-376-4852|Kensington|9 Little Fleur Court|Minneapolis|MN|55470|3564284365755406|Grocery|605.55|Automotive|3817.91|Clothing|71.52
+891|Trumann|Klimkowski|785-776-9058|Dawn|6 Havey Crossing|Topeka|KS|66667|3553301748492359|Games|1474.02|Electronics|9879.71|Music|9305.60
+892|Clarke|Crisp|253-914-5050|Stone Corner|5190 Stoughton Alley|Tacoma|WA|98464|3562339979113459|Electronics|8537.52|Industrial|694.89|Clothing|9629.58
+893|Elisabetta|Bramsen|206-555-1323|Scofield|0268 Leroy Circle|Seattle|WA|98140|3530433113815159|Clothing|6273.15|Tools|8704.58|Books|7658.68
+894|Audy|Sowman|646-673-4268|Hintze|0 Sugar Lane|New York City|NY|10060|5602238615913404|Tools|1321.14|Sports|7197.22|Baby|9761.37
+895|Fielding|Stickland|323-525-0725|Norway Maple|9168 Pankratz Road|Los Angeles|CA|90094|3566482411662240|Movies|71.85|Music|3544.81|Grocery|8318.16
+896|Daron|Barnwell|630-636-4237|Waywood|21 Saint Paul Place|Naperville|IL|60567|3567553678904506|Jewelry|8242.40|Games|5221.47|Grocery|3.98
+897|Alica|Klyner|813-139-4988|Everett|1776 Aberg Junction|Tampa|FL|33661|3562883721642471|Movies|5554.63|Jewelry|1828.00|Home|1921.45
+898|Liz|Twinning|336-429-3661|Fordem|10 Thierer Street|High Point|NC|27264|36597231054530|Computers|3178.16|Health|2023.38|Shoes|4146.82
+899|Emalia|Murrock|503-604-4010|Hollow Ridge|63 Calypso Circle|Portland|OR|97221|3574191446853324|Health|2514.89|Electronics|3328.24|Health|9326.74
+900|Harris|Kivlehan|212-954-7511|3rd|47001 Clemons Hill|New York City|NY|10150|3588532120844150|Shoes|8858.54|Sports|5556.79|Clothing|4325.63
+901|Melessa|Gatling|231-393-8835|Northland|38 Northwestern Drive|Muskegon|MI|49444|3573477510250880|Garden|4859.90|Tools|1026.84|Clothing|187.64
+902|Auberon|Halwell|682-933-5272|Oriole|31 Autumn Leaf Hill|Denton|TX|76205|3583811939493267|Books|2602.90|Kids|1990.41|Books|6909.50
+903|Arnoldo|Whiten|316-483-3610|Heffernan|794 Eliot Plaza|Wichita|KS|67260|6761088585977573|Movies|0.36|Tools|2463.64|Health|376.27
+904|Jamal|Skull|559-839-1893|Spohn|2 Carey Point|Fresno|CA|93773|67591014587965778|Electronics|8300.35|Sports|7540.35|Clothing|1835.62
+905|Erinna|Anthill|765-297-5349|Chinook|818 Forster Street|Anderson|IN|46015|5602217813871002|Shoes|8651.84|Health|4401.66|Movies|6193.06
+906|Vikki|Gellert|818-862-8479|Scoville|84 Maywood Way|Glendale|CA|91210|3549317978304012|Home|1670.35|Outdoors|7528.41|Kids|8768.74
+907|Ilsa|Zannotelli|203-465-8277|Alpine|3 Bluejay Avenue|New Haven|CT|06510|5610630145629221|Clothing|8291.93|Automotive|1677.25|Sports|4970.84
+908|Audrie|Lotherington|360-122-7189|Fairfield|90775 Lakewood Way|Olympia|WA|98506|6759087970234821481|Clothing|334.04|Automotive|8619.82|Shoes|2705.97
+909|Evelina|Dowsing|505-360-5673|Bashford|596 Kennedy Center|Albuquerque|NM|87180|5602228000253136|Sports|5197.00|Games|3273.17|Kids|738.37
+910|Kandy|Tschierse|214-488-9717|Carberry|369 Crest Line Plaza|Irving|TX|75037|3540769157994832|Clothing|8074.74|Home|6600.41|Clothing|707.71
+911|Katheryn|Summerscales|801-171-4035|Atwood|32380 Clyde Gallagher Terrace|Salt Lake City|UT|84105|3587582978672600|Music|323.43|Books|1820.51|Sports|3623.94
+912|Mace|Edge|412-812-9544|Kropf|3 Hollow Ridge Avenue|Mc Keesport|PA|15134|3564040912711932|Outdoors|3016.39|Home|4525.72|Computers|3000.10
+913|Hans|Stapylton|215-170-5033|Forster|1537 Vahlen Place|Philadelphia|PA|19125|5100132009635490|Home|9575.11|Grocery|8571.80|Grocery|2507.25
+914|Herculie|Navan|817-399-8625|Sutteridge|72976 Eliot Terrace|Fort Worth|TX|76121|5108752901926432|Music|2498.40|Sports|9026.52|Industrial|2948.03
+915|Hyman|Silliman|212-293-3848|Southridge|4354 Acker Center|Jamaica|NY|11431|30290449208926|Garden|2728.80|Outdoors|151.07|Sports|4016.44
+916|Kristan|Lejeune|915-190-2830|Clove|8 Sutteridge Junction|El Paso|TX|79977|201691954877588|Health|9401.32|Electronics|3129.77|Shoes|25.97
+917|Tammara|Saunier|786-435-1759|Clarendon|67846 Burning Wood Lane|Miami|FL|33134|3560391651112103|Industrial|7283.40|Home|9648.46|Movies|2930.11
+918|Charlotta|Learmonth|904-541-0383|Nelson|4412 Comanche Drive|Jacksonville|FL|32220|343514839388820|Music|7526.33|Tools|8019.39|Health|8988.75
+919|Marice|MacGlory|571-234-4155|Bunting|60518 Donald Center|Arlington|VA|22212|3540272177807308|Shoes|4939.54|Toys|1817.92|Sports|3015.91
+920|Paige|Breming|212-936-9183|Harper|64 Stone Corner Pass|New York City|NY|10131|30567666302569|Beauty|9202.98|Tools|6425.66|Home|5247.51
+921|Agathe|Bentson|574-210-7718|Eagle Crest|621 Shasta Avenue|South Bend|IN|46614|3587954170389939|Clothing|9966.07|Electronics|9986.92|Toys|9169.02
+922|Gabbie|Maleham|850-859-4194|Armistice|7 Parkside Street|Pinellas Park|FL|34665|3573024022876941|Movies|713.91|Kids|7459.22|Toys|8159.59
+923|Annmaria|Stuttard|816-981-6309|Springview|77262 Vernon Trail|Shawnee Mission|KS|66205|5602224173629277|Baby|1037.19|Kids|9765.91|Games|3053.70
+924|Alla|Markus|334-378-5084|Sunbrook|9907 Cambridge Parkway|Montgomery|AL|36134|201932175558858|Tools|2571.82|Clothing|9333.95|Clothing|3322.55
+925|Itch|Grane|860-793-7300|Granby|0 Blue Bill Park Drive|Hartford|CT|06140|5602238539271327|Baby|8362.62|Toys|2929.95|Beauty|4916.43
+926|Thorpe|Leithgoe|915-128-6050|Forest Run|86460 Linden Terrace|El Paso|TX|88579|3572487135420991|Games|1788.89|Movies|6134.54|Baby|1008.46
+927|Floyd|Brickdale|719-564-9119|Graedel|54 Harper Park|Colorado Springs|CO|80945|3577621885306746|Books|5553.87|Health|4771.64|Kids|7496.51
+928|Malva|Milan|405-506-4870|Swallow|6 Amoth Way|Oklahoma City|OK|73114|6763983608415275955|Home|3474.57|Garden|495.78|Grocery|4011.32
+929|Wolfie|Sedgmond|305-451-0874|Surrey|2778 Hooker Alley|Miami|FL|33261|3569296271547359|Baby|4573.68|Electronics|5183.79|Music|9257.23
+930|Nelia|Halversen|612-847-0045|Jenifer|7647 Colorado Point|Saint Paul|MN|55114|5100130816817160|Health|3747.35|Computers|5200.97|Grocery|4189.31
+931|Ronna|Leinthall|312-562-3778|Union|96217 Morningstar Crossing|Chicago|IL|60681|5602259565121665|Grocery|3434.20|Clothing|4508.85|Baby|778.61
+932|Raina|Stienton|570-130-2708|Kipling|045 Ryan Junction|Scranton|PA|18505|633323937118544510|Home|7664.32|Grocery|5677.46|Sports|6305.89
+933|Vincents|Trippick|812-270-0696|Norway Maple|6518 Melody Hill|Evansville|IN|47719|3588446208578434|Garden|5816.95|Health|3717.90|Grocery|1935.80
+934|Garey|Hurle|443-112-0605|Birchwood|993 Nova Park|Baltimore|MD|21239|3588755130098356|Automotive|9800.78|Baby|3070.99|Outdoors|6825.25
+935|Fletch|Barlass|956-724-0975|Lotheville|0 Chinook Trail|Laredo|TX|78044|560225395354196269|Sports|8310.19|Baby|1167.33|Toys|4071.31
+936|Amy|Killelea|314-320-3174|Union|00 Daystar Junction|Saint Louis|MO|63104|3578039727410890|Automotive|9568.88|Outdoors|6826.28|Kids|2100.06
+937|Biddie|Ebbers|512-470-3657|Westport|1430 Scofield Avenue|Austin|TX|78737|5602244322447074|Sports|3533.06|Toys|8711.11|Shoes|4750.68
+938|Philbert|Puttan|225-813-0931|Northfield|63490 Cardinal Alley|Baton Rouge|LA|70836|3570643489826140|Clothing|8196.91|Garden|266.30|Home|8045.40
+939|Wendie|Kinsley|256-441-9953|Hovde|8 Warner Plaza|Huntsville|AL|35810|6334311005158378|Games|6817.87|Movies|439.13|Home|380.64
+940|Beck|Scarborough|251-225-9777|Iowa|80 Ohio Place|Mobile|AL|36622|3562803889714854|Movies|448.11|Automotive|700.01|Movies|3832.73
+941|Buck|Lamyman|970-471-0943|Lukken|56593 Waubesa Circle|Grand Junction|CO|81505|4936956913374868|Kids|1289.63|Industrial|9707.43|Industrial|6869.12
+942|Zebedee|Knightsbridge|713-617-3513|Hansons|7464 Mariners Cove Center|Houston|TX|77260|4913342270438041|Kids|5489.24|Computers|7085.87|Automotive|7042.58
+943|Allegra|McGonnell|202-887-5149|Hoffman|252 Sunnyside Street|Washington|DC|20310|4175000827773848|Home|8220.25|Home|917.39|Books|5271.66
+944|Lane|Train|717-383-4078|Leroy|292 Bobwhite Trail|Harrisburg|PA|17126|5602242215210641|Jewelry|6610.50|Games|2291.69|Movies|7133.98
+945|Annie|Grewar|706-912-0837|Independence|43 6th Avenue|Athens|GA|30605|5602259518204139|Automotive|1628.97|Tools|4340.36|Tools|3670.45
+946|Beatrice|Sunnex|315-922-1241|Holmberg|5621 Prairieview Avenue|Syracuse|NY|13224|3532123158634809|Toys|5574.00|Clothing|9741.28|Books|9834.72
+947|Roarke|Drane|573-411-3185|Toban|42 Holy Cross Point|Jefferson City|MO|65105|3543822523837024|Books|9164.87|Outdoors|7939.04|Music|7924.59
+948|Candie|Cockaday|215-100-2239|Vidon|834 Cherokee Park|Philadelphia|PA|19191|201728573435362|Computers|7860.54|Computers|7100.03|Games|4067.68
+949|Keary|Riolfo|208-100-4429|Muir|692 Holy Cross Park|Boise|ID|83732|3570960848133418|Toys|4835.99|Garden|4229.83|Games|9964.04
+950|Alexine|Bloore|517-225-6758|Fieldstone|28045 Hudson Circle|Lansing|MI|48919|3566009465982495|Clothing|8493.34|Movies|7295.20|Games|6214.98
+951|Valina|Marval|407-624-1408|Fieldstone|94277 Eggendart Crossing|Orlando|FL|32854|3558625939445650|Shoes|9099.52|Health|6032.30|Beauty|2872.61
+952|Gualterio|Ferns|718-245-2588|Lakeland|3 Charing Cross Trail|Brooklyn|NY|11210|589313068997134086|Outdoors|4146.44|Clothing|2166.25|Shoes|8589.49
+953|Madel|Streeter|334-144-9285|4th|9028 Di Loreto Street|Montgomery|AL|36125|5602224819274575126|Toys|1731.95|Grocery|5014.91|Computers|3113.39
+954|Wallace|Newlands|719-508-3818|Declaration|92593 Eastwood Hill|Pueblo|CO|81005|3572601440914791|Sports|8372.60|Movies|5820.82|Tools|8988.51
+955|Glynnis|Nalder|616-966-9994|Maple|11 Shoshone Road|Grand Rapids|MI|49518|675925594131045232|Clothing|2493.03|Tools|4756.88|Music|4876.67
+956|Sibilla|Girardoni|334-493-0331|Monterey|96 Randy Point|Montgomery|AL|36119|5002354587163542|Tools|8661.75|Kids|8535.16|Sports|8801.32
+957|Evyn|Stannus|626-404-2072|Pierstorff|7 Kenwood Pass|Alhambra|CA|91841|5602226176597120|Industrial|6029.85|Grocery|5484.12|Outdoors|4588.22
+958|Aubert|Redley|971-714-7153|Forest|9062 Blaine Plaza|Portland|OR|97271|3536135686629198|Toys|1819.67|Health|6592.70|Clothing|3922.27
+959|Berti|Davidow|785-389-3249|Transport|241 Shopko Place|Topeka|KS|66642|3568066960071172|Computers|4067.29|Baby|1961.21|Books|9575.15
+960|Prudence|Palluschek|352-501-1209|Grim|15267 Anderson Road|Ocala|FL|34474|5564261439409389|Electronics|7179.28|Industrial|1636.06|Jewelry|9614.20
+961|Renell|Becraft|404-319-5766|La Follette|50 Lotheville Park|Atlanta|GA|31165|633302406949313805|Automotive|1500.07|Automotive|7033.40|Beauty|6583.92
+962|Vere|Sandars|863-957-1449|Commercial|0516 Rigney Crossing|Lehigh Acres|FL|33972|3545205181316556|Industrial|9564.01|Garden|745.45|Sports|1365.62
+963|Janel|Dubbin|816-734-4892|Bobwhite|6 Cascade Road|Kansas City|MO|64125|6759851727885276520|Health|6188.03|Kids|9276.84|Movies|7401.99
+964|Gregorio|Millom|302-335-4742|Utah|91 Melody Center|Wilmington|DE|19886|3553973133266711|Movies|3056.44|Shoes|8432.15|Movies|719.58
+965|Doll|Scown|770-624-3345|East|8119 Merry Park|Marietta|GA|30061|4471274447741946|Electronics|2946.46|Baby|6413.69|Movies|6607.48
+966|Aurore|Caley|718-837-0748|Oriole|4 Dottie Court|New York City|NY|10270|3582371169565863|Clothing|2651.57|Jewelry|4628.88|Jewelry|2964.73
+967|Lucille|Kerwen|707-122-5149|Laurel|17202 Pine View Avenue|Petaluma|CA|94975|30204882215223|Outdoors|8331.24|Sports|8538.38|Shoes|8534.12
+968|Win|Buckthorp|515-292-1940|Quincy|79 Katie Junction|Des Moines|IA|50310|5002355228221250|Shoes|7343.42|Computers|3886.28|Tools|1075.61
+969|Bone|Brewer|605-517-4722|Fair Oaks|95302 2nd Alley|Sioux Falls|SD|57105|6334106252813133|Tools|4226.13|Home|3605.55|Electronics|9970.97
+970|Chiquita|Newitt|915-952-1528|Westerfield|5 Burning Wood Place|El Paso|TX|88569|4913552305015081|Health|7071.99|Grocery|2831.00|Sports|5935.42
+971|Billy|Milburn|702-323-9899|Eliot|40932 Merchant Terrace|Las Vegas|NV|89150|3581619358876488|Grocery|2321.33|Baby|6939.70|Sports|1928.63
+972|Mahmoud|Kingerby|415-399-5204|Ramsey|8 Butterfield Road|San Rafael|CA|94913|630448549060593555|Tools|6371.03|Computers|7160.76|Electronics|4985.31
+973|Kim|Colyer|312-397-3972|Melrose|50685 Milwaukee Way|Chicago|IL|60636|5107608072407340|Grocery|9624.28|Sports|2456.12|Automotive|3030.95
+974|Kathleen|Iacovini|253-184-6025|Chive|10 Duke Way|Tacoma|WA|98411|30282258247335|Home|2486.59|Home|4275.44|Garden|2844.83
+975|Karyn|Carren|754-340-2661|Prentice|99419 Northfield Court|Fort Lauderdale|FL|33345|4917330825399517|Industrial|9131.92|Sports|4449.26|Electronics|2794.57
+976|Evelin|Shere|864-200-2572|Marquette|784 Weeping Birch Street|Greenville|SC|29605|3565350138179759|Kids|6427.83|Games|1612.18|Kids|2305.75
+977|Bette-ann|McTerrelly|718-560-3775|Rockefeller|22296 Forest Dale Court|Flushing|NY|11355|3579299611840581|Outdoors|6135.33|Tools|324.71|Music|7291.90
+978|Juana|Briztman|908-869-9013|Rutledge|7022 Boyd Pass|Elizabeth|NJ|07208|5602231008026496|Electronics|416.74|Movies|5315.05|Kids|9219.79
+979|Annabell|Caslett|253-488-4203|Florence|020 Merchant Road|Tacoma|WA|98464|5610929985863779|Sports|1906.46|Garden|6762.07|Books|8733.47
+980|Umberto|Spoor|267-509-9920|Vernon|433 Fuller Point|Philadelphia|PA|19146|30330654791271|Electronics|4281.02|Movies|5766.99|Outdoors|6878.46
+981|Aldus|Kerslake|706-212-7149|Hansons|005 Meadow Vale Drive|Athens|GA|30610|5108751737994184|Home|8695.25|Jewelry|5570.58|Electronics|8322.88
+982|Sigvard|Teall|954-550-4105|Jenifer|9 Stone Corner Place|Fort Lauderdale|FL|33330|3557453924651039|Tools|8220.15|Automotive|8296.66|Books|9176.51
+983|Lauraine|Cornew|303-459-9131|Hermina|5 Holy Cross Plaza|Denver|CO|80270|5108752379162015|Outdoors|9833.29|Music|663.99|Music|4342.33
+984|Tildy|Windaybank|304-829-3148|Warner|3512 Fremont Pass|Charleston|WV|25336|5010122140578229|Home|2543.93|Books|199.66|Jewelry|1409.00
+985|Pate|Blasl|806-587-5603|Londonderry|57457 Talmadge Trail|Amarillo|TX|79118|201400690678833|Beauty|2222.72|Industrial|5963.90|Sports|2662.97
+986|Freeland|Fergusson|256-606-3329|Old Gate|5450 Shopko Plaza|Huntsville|AL|35805|5610276172240068|Toys|1817.68|Clothing|6496.00|Outdoors|7749.63
+987|Melli|Zmitrichenko|916-678-1484|Kensington|00584 Saint Paul Point|Sacramento|CA|94250|3588144327402392|Outdoors|4194.78|Health|8833.99|Home|9915.72
+988|Alfie|Railton|915-372-6076|Arrowood|1 Superior Street|El Paso|TX|88519|5010121521055864|Automotive|9248.96|Electronics|2472.34|Jewelry|158.66
+989|Christal|O'Corrin|626-819-2993|Elka|8 Maple Lane|Pasadena|CA|91125|6759941633665567744|Kids|1321.71|Computers|1612.48|Garden|4238.98
+990|Papageno|Snoddy|917-460-2316|Susan|8066 Lake View Trail|Jamaica|NY|11436|3541268364958077|Toys|7204.87|Baby|2710.19|Movies|2222.34
+991|Kaitlynn|Filkin|570-434-1065|Sunnyside|06351 Paget Place|Wilkes Barre|PA|18706|5641822710046832180|Beauty|2033.74|Electronics|7022.05|Baby|1989.79
+992|Marlowe|Furzer|727-396-3651|Rigney|259 Fair Oaks Park|Clearwater|FL|34620|3578115784920367|Shoes|9418.75|Computers|1950.23|Health|9898.93
+993|Rosalind|Samwaye|215-829-8220|Troy|79690 Tennyson Circle|Philadelphia|PA|19160|3581575807569357|Computers|6044.22|Jewelry|2819.38|Clothing|5609.86
+994|Sibel|Newcomen|713-869-9962|Golf Course|0596 Mendota Terrace|Houston|TX|77299|3549962482700021|Outdoors|4828.12|Baby|1046.81|Industrial|770.40
+995|Korey|Konzelmann|404-348-9818|Mayer|8585 Killdeer Way|Lawrenceville|GA|30245|3557618610236283|Industrial|9800.45|Computers|5821.26|Grocery|7410.68
+996|Irvin|Tiuit|478-520-1495|Fordem|915 Cardinal Street|Macon|GA|31210|5048379354039134|Music|6586.45|Shoes|2812.06|Sports|6261.05
+997|Callida|Welburn|646-206-3649|American|2 Grayhawk Park|New York City|NY|10099|490399695703484385|Clothing|7123.25|Games|716.20|Music|4791.88
+998|Micheil|Sanderson|603-630-1137|Prairieview|312 Dennis Drive|Portsmouth|NH|03804|3555634635008781|Health|9051.60|Kids|9062.07|Automotive|3566.08
+999|Mead|Ellison|505-325-7229|Kedzie|99095 Fieldstone Parkway|Santa Fe|NM|87592|3550706266433473|Industrial|9746.72|Grocery|3684.03|Tools|2662.20
+1000|Riobard|Margrett|804-905-6849|Eastwood|64 Heffernan Way|Richmond|VA|23242|5038149270062342|Grocery|2138.53|Sports|4675.79|Computers|5020.88
